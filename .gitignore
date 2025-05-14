@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python (nếu có)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Node.js (nếu có)
+node_modules/
+.env
+
+.venv/
+venv/

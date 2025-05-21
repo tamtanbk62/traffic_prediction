@@ -1,0 +1,569 @@
+camera_id,Point,Location1,Location2,Camera Angle,SnapshotUrl
+662b86c41afb9c00172dd31c,POINT(106.691054105759 10.7918902432446),,Trần Quang Khải - Trần Khắc Chân,,http://camera.thongtingiaothong.vn/api/snapshot/662b86c41afb9c00172dd31c
+6623f4df6f998a001b2528eb,POINT(106.713809967041 10.8361932799182),,Quốc Lộ 13 - cầu Ông Dầu,,http://camera.thongtingiaothong.vn/api/snapshot/6623f4df6f998a001b2528eb
+662b7ce71afb9c00172dc676,POINT(106.691064834595 10.7726452614037),,Cách Mạng Tháng Tám - Bùi Thị Xuân,,http://camera.thongtingiaothong.vn/api/snapshot/662b7ce71afb9c00172dc676
+583f969161cfea0012cf68f7,POINT(106.781423091888 10.7646823693643),Quận 2,Nguyễn Thị Định - Đường D,300,http://camera.thongtingiaothong.vn/api/snapshot/583f969161cfea0012cf68f7
+6623e8da6f998a001b2524a6,POINT(106.684530973434 10.8032933150268),,Phan Đăng Lưu - Thích Quảng Đức,,http://camera.thongtingiaothong.vn/api/snapshot/6623e8da6f998a001b2524a6
+56de42f611f398ec0c481299,POINT(106.620351076126 10.7265671915496),Quận Bình Tân,Võ Văn Kiệt - An Dương Vương 2,255,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481299
+66b1c426779f74001867415e,POINT(106.715161800385 10.8010801833774),,Điện Biên Phủ - Nguyễn Gia Trí,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c426779f74001867415e
+6623f1046f998a001b2527db,POINT(106.636122465134 10.7821519725547),,Lũy Bán Bích - Thoại Ngọc Hầu,,http://camera.thongtingiaothong.vn/api/snapshot/6623f1046f998a001b2527db
+5d9de4de766c880017188cbb,POINT(106.790762543678 10.796827763223),,Cao tốc LTDG - Võ Chí Công,270,http://camera.thongtingiaothong.vn/api/snapshot/5d9de4de766c880017188cbb
+6623f44f6f998a001b2528aa,POINT(106.765716075897 10.8349709243101),,Võ Nguyên Giáp - Đỗ Xuân Hợp (1),,http://camera.thongtingiaothong.vn/api/snapshot/6623f44f6f998a001b2528aa
+662a881a1afb9c00172d2559,POINT(106.61497592926 10.7380517925754),,Kinh Dương Vương - Tên Lửa,,http://camera.thongtingiaothong.vn/api/snapshot/662a881a1afb9c00172d2559
+662b4ecb1afb9c00172d8692,POINT(106.658009290695 10.7576784340111),,Nguyễn Chí Thanh - Thuận Kiều,,http://camera.thongtingiaothong.vn/api/snapshot/662b4ecb1afb9c00172d8692
+5deb576d1dc17d7c5515ad15,POINT(106.704602 10.781944),,Lý Tự Trọng - Chu Mạnh Trinh,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad15
+5b8b2323ca057700116405d0,POINT(106.664902567863 10.8129465937096),,Trường Sơn - Ga Quốc Nội 2,,http://camera.thongtingiaothong.vn/api/snapshot/5b8b2323ca057700116405d0
+63ae7a50bfd3d90017e8f2b2,POINT(106.670830249786 10.7697784337206),,Ba Tháng Hai – Sư Vạn Hạnh,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7a50bfd3d90017e8f2b2
+587ee0ecb807da0011e33d50,POINT(106.696482896805 10.8019970541825),Quận Bình Thạnh,Phan Đăng Lưu - Lê Văn Duyệt,15,http://camera.thongtingiaothong.vn/api/snapshot/587ee0ecb807da0011e33d50
+56de42f611f398ec0c48128f,POINT(106.677197813988 10.751960277381),Quận 5,Võ Văn Kiệt - Huỳnh Mẫn Đạt,75,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48128f
+56de42f611f398ec0c4812a2,POINT(106.7755866 10.7701157),Quận 2,Nút giao Mỹ Thủy 2,270,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c4812a2
+58b571c817139d0010f35d5d,POINT(106.677948832512 10.794472307568),Quận Phú Nhuận,Nguyễn Văn Trỗi - Trần Huy Liệu,90,http://camera.thongtingiaothong.vn/api/snapshot/58b571c817139d0010f35d5d
+63bd1f21bfd3d90017ec3d04,POINT(106.737660169601 10.7052043577961),,Huỳnh Tấn Phát - Phạm Hữu Lầu,,http://camera.thongtingiaothong.vn/api/snapshot/63bd1f21bfd3d90017ec3d04
+58df4d95dc195800111e04b9,POINT(106.672879457474 10.8079619154301),Quận Tân Bình,Phổ Quang - Hoàng Minh Giám,60,http://camera.thongtingiaothong.vn/api/snapshot/58df4d95dc195800111e04b9
+586e28a0f9fab7001111b0b3,POINT(106.768741607666 10.872081942303),Quận Thủ Đức,Quốc lộ 1 - KCX Linh Trung 1,120,http://camera.thongtingiaothong.vn/api/snapshot/586e28a0f9fab7001111b0b3
+5d8cd4ee766c880017188946,POINT(106.671452522278 10.7918902432446),,Lê Văn Sỹ - Huỳnh Văn Bánh,120,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd4ee766c880017188946
+662b81721afb9c00172dcc44,POINT(106.696075201035 10.7927439077816),,Đinh Tiên Hoàng - Trần Quang Khải,,http://camera.thongtingiaothong.vn/api/snapshot/662b81721afb9c00172dcc44
+66b1c3c2779f740018674125,POINT(106.624095439911 10.7459416028391),,Vòng xoay Mũi Tàu Phú Lâm,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c3c2779f740018674125
+5a8269c45058170011f6eae4,POINT(106.7367374897 10.7409610852775),,Nguyễn Văn Quỳ - Cầu Phú Mỹ,45,http://camera.thongtingiaothong.vn/api/snapshot/5a8269c45058170011f6eae4
+56de42f611f398ec0c481297,POINT(106.670079231262 10.7503686605855),Quận 5,Võ Văn Kiệt - Nguyễn Tri Phương 2,270,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481297
+5822adbbedeb6c0012a2d65f,POINT(106.68367266655 10.7519444666594),Quận 5,Võ Văn Kiệt - Cầu Chữ Y 1,270,http://camera.thongtingiaothong.vn/api/snapshot/5822adbbedeb6c0012a2d65f
+6623e43e6f998a001b2522cb,POINT(106.690624952316 10.7748059039379),,Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan,,http://camera.thongtingiaothong.vn/api/snapshot/6623e43e6f998a001b2522cb
+5a823e425058170011f6eaa4,POINT(106.695774793625 10.7917743133057),,Đinh Tiên Hoàng - Võ Thị Sáu 1,45,http://camera.thongtingiaothong.vn/api/snapshot/5a823e425058170011f6eaa4
+649da72ca6068200171a6dbb,POINT(106.70635342598 10.7710748334425),,Tôn Đức Thắng - Hàm Nghi,,http://camera.thongtingiaothong.vn/api/snapshot/649da72ca6068200171a6dbb
+63b65fd8bfd3d90017eaa461,POINT(106.696085929871 10.7956526724414),,Lê Văn Duyệt - Vũ Huy Tấn,,http://camera.thongtingiaothong.vn/api/snapshot/63b65fd8bfd3d90017eaa461
+5deb576d1dc17d7c5515ad08,POINT(106.637651324272 10.8041364085074),,Cộng Hòa - Tân Kỳ Tân Quý,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad08
+587c79e9b807da0011e33d3d,POINT(106.718965172768 10.7986878751089),Quận Bình Thạnh,Điện Biên Phủ - Nguyễn Văn Thương 2,315,http://camera.thongtingiaothong.vn/api/snapshot/587c79e9b807da0011e33d3d
+63b65ebebfd3d90017eaa3ae,POINT(106.71642780304 10.7891447995017),,Nguyễn Hữu Cảnh - Ngô Tất Tố 2 (Dạ cầu Thủ Thiêm 1),,http://camera.thongtingiaothong.vn/api/snapshot/63b65ebebfd3d90017eaa3ae
+5874769eb807da0011e33cec,POINT(106.657757163048 10.8001053464053),Quận Tân Bình,Cộng Hòa - Út Tịch 2,345,http://camera.thongtingiaothong.vn/api/snapshot/5874769eb807da0011e33cec
+63b660f8bfd3d90017eaa4ea,POINT(106.723862886429 10.7526506780822),,Cầu Tân Thuận 2 - Q7 (Q7-Q4),,http://camera.thongtingiaothong.vn/api/snapshot/63b660f8bfd3d90017eaa4ea
+58af994abd82540010390c37,POINT(106.706235408783 10.7826315159924),,Nguyễn Hữu Cảnh - Tôn Đức Thắng,195,http://camera.thongtingiaothong.vn/api/snapshot/58af994abd82540010390c37
+56df8108c062921100c143db,POINT(106.674022078514 10.8090315732439),Quận Phú Nhuận,Hoàng Minh Giám - Hồng Hà,75,http://camera.thongtingiaothong.vn/api/snapshot/56df8108c062921100c143db
+63ae7903bfd3d90017e8f211,POINT(106.636669635773 10.7483923035435),,Hậu Giang -  Hẻm 491,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7903bfd3d90017e8f211
+63ae7727bfd3d90017e8f14a,POINT(106.703719496727 10.7635071530486),,Hoàng Diệu - Đoàn Văn Bơ 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7727bfd3d90017e8f14a
+6623f36e6f998a001b252878,POINT(106.762282848358 10.8663923069317),,Phạm Văn Đồng - Kha Vạn Cân 2,,http://camera.thongtingiaothong.vn/api/snapshot/6623f36e6f998a001b252878
+5d9ddec9766c880017188c9c,POINT(106.711503267288 10.8021551350728),,Nút giao Hàng Xanh 5 (Hàng Xanh - Bạch Đằng),345,http://camera.thongtingiaothong.vn/api/snapshot/5d9ddec9766c880017188c9c
+5deb576d1dc17d7c5515ad02,POINT(106.691552996635 10.7843441648872),,Điện Biên Phủ - Pasteur,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad02
+63ae79aabfd3d90017e8f26a,POINT(106.6664904356 10.7858618271433),,Cách Mạng Tháng Tám - Trường Sơn,,http://camera.thongtingiaothong.vn/api/snapshot/63ae79aabfd3d90017e8f26a
+63b66089bfd3d90017eaa4bd,POINT(106.695753335953 10.8114079914905),,Nơ Trang Long - Chu Văn An,,http://camera.thongtingiaothong.vn/api/snapshot/63b66089bfd3d90017eaa4bd
+63ae798abfd3d90017e8f255,POINT(106.664623618126 10.7869104851311),,Cách Mạng Tháng Tám - Bắc Hải,,http://camera.thongtingiaothong.vn/api/snapshot/63ae798abfd3d90017e8f255
+662a89f51afb9c00172d26ef,POINT(106.634652614593 10.7024001433989),,Nguyễn Văn Linh - Trịnh Quang Nghị 2,,http://camera.thongtingiaothong.vn/api/snapshot/662a89f51afb9c00172d26ef
+597bf277faa7ea0011c7c29f,POINT(106.792302131653 10.8208924000834),,Cầu Phú Hữu 2,225,http://camera.thongtingiaothong.vn/api/snapshot/597bf277faa7ea0011c7c29f
+63ae763bbfd3d90017e8f0c4,POINT(106.678780317307 10.7662581006404),,Lý Thái Tổ - Nguyễn Đình Chiểu,,http://camera.thongtingiaothong.vn/api/snapshot/63ae763bbfd3d90017e8f0c4
+5d8cda6a766c880017188960,POINT(106.743823885918 10.8411932946322),,Phạm Văn Đồng - Kha Vạn Cân (hướng đi Sân bay),240,http://camera.thongtingiaothong.vn/api/snapshot/5d8cda6a766c880017188960
+662b80e81afb9c00172dcbec,POINT(106.690050959587 10.7730352321784),,Cách Mạng Tháng Tám - Sương Nguyệt Anh,,http://camera.thongtingiaothong.vn/api/snapshot/662b80e81afb9c00172dcbec
+56df84abc062921100c143e5,POINT(106.679236292839 10.8142217306645),Quận Gò Vấp,Nút giao Nguyễn Thái Sơn 3 (Phạm Văn Đồng),330,http://camera.thongtingiaothong.vn/api/snapshot/56df84abc062921100c143e5
+662a86a11afb9c00172d2410,POINT(106.65856719017 10.7456043005395),,Tùng Thiện Vương - Cao Xuân Dục,,http://camera.thongtingiaothong.vn/api/snapshot/662a86a11afb9c00172d2410
+56de42f611f398ec0c48128b,POINT(106.68691277504 10.7543213358374),Quận 1,Võ Văn Kiệt - Nguyễn Văn Cừ 1,180,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48128b
+58e49ff8d9d6200011e0b9d4,POINT(106.687223911285 10.7863150164711),Quận 3,Nam Kỳ Khởi Nghĩa - Trần Quốc Toản,105,http://camera.thongtingiaothong.vn/api/snapshot/58e49ff8d9d6200011e0b9d4
+5a8241105058170011f6eaa6,POINT(106.695785522461 10.7919218604929),,Đinh Tiên Hoàng - Võ Thị Sáu 2,135,http://camera.thongtingiaothong.vn/api/snapshot/5a8241105058170011f6eaa6
+65e054fb6b18080018db6632,POINT(106.701187491417 10.7832164525575),,Lê Duẩn - Mạc Đĩnh Chi,,http://camera.thongtingiaothong.vn/api/snapshot/65e054fb6b18080018db6632
+5a825ded5058170011f6ead7,POINT(106.655831336975 10.6484508725221),,Quốc lộ 50 - Cầu Ông Thìn (2),345,http://camera.thongtingiaothong.vn/api/snapshot/5a825ded5058170011f6ead7
+63b5503bbfd3d90017ea7ccc,POINT(106.775082349777 10.7697468141455),,Nút giao Mỹ Thủy (7),,http://camera.thongtingiaothong.vn/api/snapshot/63b5503bbfd3d90017ea7ccc
+662a873b1afb9c00172d2483,POINT(106.581823825836 10.7489509551128),,Võ Trần Chí - Trần Văn Giàu 1,,http://camera.thongtingiaothong.vn/api/snapshot/662a873b1afb9c00172d2483
+66b1c3fa779f740018674146,POINT(106.723707318306 10.7991305062692),,Nguyễn Hữu Cảnh - Ung Văn Khiêm,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c3fa779f740018674146
+5ad0621c98d8fc001102e268,POINT(106.702335476875 10.779137682017),,Lý Tự Trọng - Hai Bà Trưng 2,300,http://camera.thongtingiaothong.vn/api/snapshot/5ad0621c98d8fc001102e268
+66b1c34d779f74001867409e,POINT(106.666828393936 10.768197450899),,Ba Tháng Hai - Thành Thái,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c34d779f74001867409e
+56de42f611f398ec0c48128c,POINT(106.6864407 10.7536415),,Võ Văn Kiệt - Nguyễn Văn Cừ 2,285,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48128c
+662b558c1afb9c00172d8ed2,POINT(106.663491725922 10.8351289878163),,625 Quang Trung,,http://camera.thongtingiaothong.vn/api/snapshot/662b558c1afb9c00172d8ed2
+6623f4836f998a001b2528bf,POINT(106.765801906586 10.8354978023394),,Võ Nguyên Giáp - Đỗ Xuân Hợp (2),,http://camera.thongtingiaothong.vn/api/snapshot/6623f4836f998a001b2528bf
+662b85bf1afb9c00172dd149,POINT(106.701128482819 10.7709694352995),,Nam Kỳ Khởi Nghĩa - Hàm Nghi,,http://camera.thongtingiaothong.vn/api/snapshot/662b85bf1afb9c00172dd149
+63b54bcdbfd3d90017ea7a82,POINT(106.718090772629 10.8960825794088),,Tỉnh lộ 43 - KCX Linh Trung 2,,http://camera.thongtingiaothong.vn/api/snapshot/63b54bcdbfd3d90017ea7a82
+5b5995a3fd4edb0019c7d9ab,POINT(106.660348176956 10.7489404145267),,Võ Văn Kiệt - Cầu Chà Và 2 (trên cầu),75,http://camera.thongtingiaothong.vn/api/snapshot/5b5995a3fd4edb0019c7d9ab
+662b81a31afb9c00172dcc65,POINT(106.693907976151 10.7805394362678),,Nam Kỳ Khởi Nghĩa - Võ Văn Tần,,http://camera.thongtingiaothong.vn/api/snapshot/662b81a31afb9c00172dcc65
+63ae7b3cbfd3d90017e8f34d,POINT(106.659817099571 10.7644610285251),,Ba Tháng Hai - Lý Thường Kiệt 3,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7b3cbfd3d90017e8f34d
+6318283cc9eae60017a19f0c,POINT(106.701568365097 10.7866101161314),,Nguyễn Thị Minh Khai - Đinh Tiên Hoàng 1,,http://camera.thongtingiaothong.vn/api/snapshot/6318283cc9eae60017a19f0c
+5deb576d1dc17d7c5515acf6,POINT(106.681205 10.765389),,Nút giao Ngã sáu Cộng Hòa,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf6
+58746488b807da0011e33cd7,POINT(106.748507022858 10.8743050851613),Quận Thủ Đức,Cầu vượt Sóng Thần 2,60,http://camera.thongtingiaothong.vn/api/snapshot/58746488b807da0011e33cd7
+662b83381afb9c00172dcf88,POINT(106.695957183838 10.7846919631639),,Hai Bà Trưng - Nguyễn Đình Chiểu,,http://camera.thongtingiaothong.vn/api/snapshot/662b83381afb9c00172dcf88
+5822b5ededeb6c0012a2d66a,POINT(106.722586154938 10.7732144077704),Quận 2,Mai Chí Thọ - Nguyễn Cơ Thạch 1,45,http://camera.thongtingiaothong.vn/api/snapshot/5822b5ededeb6c0012a2d66a
+63b660d8bfd3d90017eaa4d5,POINT(106.723691225052 10.7527666230832),,Cầu Tân Thuận 2 - Q7 (Q4-Q7),,http://camera.thongtingiaothong.vn/api/snapshot/63b660d8bfd3d90017eaa4d5
+63ae7be0bfd3d90017e8f3a8,POINT(106.657199263573 10.7621527500863),,Ba Tháng Hai - Lê Đại Hành 1,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7be0bfd3d90017e8f3a8
+63b54a04bfd3d90017ea783e,POINT(106.813673973084 10.8502078623705),,Lê Văn Việt - Hoàng Hữu Nam,,http://camera.thongtingiaothong.vn/api/snapshot/63b54a04bfd3d90017ea783e
+63b54f70bfd3d90017ea7c86,POINT(106.726276874542 10.7985614089434),,Cầu Sài Gòn (10),,http://camera.thongtingiaothong.vn/api/snapshot/63b54f70bfd3d90017ea7c86
+5a8267fe5058170011f6eae1,POINT(106.697700619698 10.7235786992945),,Lê Văn Lương - Cầu Rạch Đĩa,15,http://camera.thongtingiaothong.vn/api/snapshot/5a8267fe5058170011f6eae1
+58746122b807da0011e33cc5,POINT(106.787940859795 10.8672299545045),Quận Thủ Đức,Quốc lộ 1 - ĐH Nông Lâm 2,90,http://camera.thongtingiaothong.vn/api/snapshot/58746122b807da0011e33cc5
+63ae768dbfd3d90017e8f0f1,POINT(106.701278686523 10.7560025246799),,Khánh Hội - Vĩnh Hội,,http://camera.thongtingiaothong.vn/api/snapshot/63ae768dbfd3d90017e8f0f1
+662a89ae1afb9c00172d26ad,POINT(106.633536815643 10.7028218314316),,Nguyễn Văn Linh - Trịnh Quang Nghị,,http://camera.thongtingiaothong.vn/api/snapshot/662a89ae1afb9c00172d26ad
+63b54a70bfd3d90017ea7862,POINT(106.804490089417 10.830049838744),,Lã Xuân Oai - Đường D2,,http://camera.thongtingiaothong.vn/api/snapshot/63b54a70bfd3d90017ea7862
+58e49783d9d6200011e0b9ce,POINT(106.624760627747 10.8274733494884),Quận 12,Trường Chinh - Phan Văn Hớn 2 (HM-Q12),135,http://camera.thongtingiaothong.vn/api/snapshot/58e49783d9d6200011e0b9ce
+5deb576d1dc17d7c5515ad0c,POINT(106.693342 10.771135),,Nút giao Ngã sáu Phù Đổng 1,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad0c
+6623ef776f998a001b252768,POINT(106.602745056152 10.8616719345273),,Quốc Lộ 22 - Nguyễn Thị Sóc,,http://camera.thongtingiaothong.vn/api/snapshot/6623ef776f998a001b252768
+58d7bbf2c1e33c00112b3216,POINT(106.570794582367 10.6656266937569),Huyện Bình Chánh,Quốc lộ 1 - Đinh Đức Thiện 2,225,http://camera.thongtingiaothong.vn/api/snapshot/58d7bbf2c1e33c00112b3216
+662b51d21afb9c00172d89bf,POINT(106.610255241394 10.7521974381054),,Tên Lửa - Đường số 7,,http://camera.thongtingiaothong.vn/api/snapshot/662b51d21afb9c00172d89bf
+58746295b807da0011e33ccb,POINT(106.758962273598 10.8752217316573),Quận Thủ Đức,Quốc lộ 1 - Bình Đường,285,http://camera.thongtingiaothong.vn/api/snapshot/58746295b807da0011e33ccb
+662b80051afb9c00172dcaf6,POINT(106.686580181122 10.7625269242757),,Nguyễn Trãi - Nguyễn Cư Trinh,,http://camera.thongtingiaothong.vn/api/snapshot/662b80051afb9c00172dcaf6
+587ee2aeb807da0011e33d52,POINT(106.683232784271 10.8020392090947),Quận Phú Nhuận,Phan Đăng Lưu - Phan Xích Long,225,http://camera.thongtingiaothong.vn/api/snapshot/587ee2aeb807da0011e33d52
+662b5bc31afb9c00172d92e2,POINT(106.615083217621 10.8093424582973),,Lê Trọng Tấn - Đường Kênh 19/5,,http://camera.thongtingiaothong.vn/api/snapshot/662b5bc31afb9c00172d92e2
+662b58401afb9c00172d90f5,POINT(106.661823391914 10.8006480938667),,Hoàng Văn Thụ - Bùi Thị Xuân,,http://camera.thongtingiaothong.vn/api/snapshot/662b58401afb9c00172d90f5
+5874644cb807da0011e33cd5,POINT(106.750985383987 10.8758064874328),Quận Thủ Đức,Cầu vượt Sóng Thần 1,105,http://camera.thongtingiaothong.vn/api/snapshot/5874644cb807da0011e33cd5
+662b867b1afb9c00172dd250,POINT(106.696676015854 10.7692988698081),,Trần Hưng Đạo - Ký Con,,http://camera.thongtingiaothong.vn/api/snapshot/662b867b1afb9c00172dd250
+597bf0b8faa7ea0011c7c293,POINT(106.791679859161 10.8163926125139),,Cầu Phú Hữu 1,180,http://camera.thongtingiaothong.vn/api/snapshot/597bf0b8faa7ea0011c7c293
+662b83ff1afb9c00172dcffb,POINT(106.698188781738 10.7805078178228),,Lê Duẩn - Phạm Ngọc Thạch,,http://camera.thongtingiaothong.vn/api/snapshot/662b83ff1afb9c00172dcffb
+5deb576d1dc17d7c5515ad19,POINT(106.699659 10.784426),,Nguyễn Thị Minh Khai - Mạc Đĩnh Chi,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad19
+589add0fb3bf7600110283ae,POINT(106.623339056969 10.8556133114939),Quận 12,Tô Ký (Tỉnh lộ 15) - Đông Bắc,120,http://camera.thongtingiaothong.vn/api/snapshot/589add0fb3bf7600110283ae
+5deb576d1dc17d7c5515ad01,POINT(106.691815853119 10.7878590168447),,Võ Thị Sáu - Hai Bà Trưng,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad01
+58abbf72bd82540010390ba4,POINT(106.726319789886 10.7985614089434),,Cầu Sài Gòn 9 (Bình Thạnh - Thủ Đức),75,http://camera.thongtingiaothong.vn/api/snapshot/58abbf72bd82540010390ba4
+6623f1f16f998a001b25281f,POINT(106.759042739868 10.865064709737),,Phạm Văn Đồng - Đào Trinh Nhất,,http://camera.thongtingiaothong.vn/api/snapshot/6623f1f16f998a001b25281f
+58ad6961bd82540010390be5,POINT(106.680378913879 10.7990461956223),Quận Phú Nhuận,Nút giao Phú Nhuận 1 (Phan Đình Phùng),60,http://camera.thongtingiaothong.vn/api/snapshot/58ad6961bd82540010390be5
+5a8257e25058170011f6eacd,POINT(106.814097762108 10.8700853140978),,Hoàng Hữu Nam - Đường D400,300,http://camera.thongtingiaothong.vn/api/snapshot/5a8257e25058170011f6eacd
+5a606dbc8576340017d0662b,POINT(106.721127033234 10.7978184191454),,Điện Biên Phủ - Nguyễn Hữu Cảnh,195,http://camera.thongtingiaothong.vn/api/snapshot/5a606dbc8576340017d0662b
+662b52a31afb9c00172d8b01,POINT(106.670604944229 10.846467192202),,Lê Đức Thọ - Hẻm 688,,http://camera.thongtingiaothong.vn/api/snapshot/662b52a31afb9c00172d8b01
+662a8ef41afb9c00172d2af2,POINT(106.704325675964 10.7449876687987),,Lê Văn Lương - Đường số 15,,http://camera.thongtingiaothong.vn/api/snapshot/662a8ef41afb9c00172d2af2
+6623f5b56f998a001b25292f,POINT(106.746608018875 10.8022710610062),,Võ Nguyên Giáp - quay đầu An Phú (2),,http://camera.thongtingiaothong.vn/api/snapshot/6623f5b56f998a001b25292f
+66b1c398779f7400186740e3,POINT(106.653256416321 10.7601975506409),,Ba Tháng Hai - Tạ Uyên,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c398779f7400186740e3
+6623e31e6f998a001b252250,POINT(106.681677103043 10.7816671586319),,Kỳ Đồng - Bà Huyện Thanh Quan,,http://camera.thongtingiaothong.vn/api/snapshot/6623e31e6f998a001b252250
+5deb576d1dc17d7c5515acfe,POINT(106.683688759804 10.7825155824841),,Lý Chính Thắng - Trương Định,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acfe
+58df4e22dc195800111e04bb,POINT(106.668593287468 10.8141637700114),Quận Tân Bình,Yên Thế - Bạch Đằng,270,http://camera.thongtingiaothong.vn/api/snapshot/58df4e22dc195800111e04bb
+58e49e3dd9d6200011e0b9d1,POINT(106.6847884655 10.7886020312638),,Nam Kỳ Khởi Nghĩa - Lý Chính Thắng,105,http://camera.thongtingiaothong.vn/api/snapshot/58e49e3dd9d6200011e0b9d1
+5ad0679598d8fc001102e274,POINT(106.786707043648 10.8452343413582),,Lê Văn Việt - Man Thiện,240,http://camera.thongtingiaothong.vn/api/snapshot/5ad0679598d8fc001102e274
+5a824b6c5058170011f6eaab,POINT(106.621397137642 10.773841521503),,Nút giao Bốn Xã 3 (Lê Văn Quới),135,http://camera.thongtingiaothong.vn/api/snapshot/5a824b6c5058170011f6eaab
+6623f0576f998a001b2527ac,POINT(106.641583442688 10.7859250629045),,Âu Cơ - Thoại Ngọc Hầu,,http://camera.thongtingiaothong.vn/api/snapshot/6623f0576f998a001b2527ac
+62da3e840637a10017d7073d,POINT(106.71789765358 10.8451078948305),,Quốc Lộ 13 - Đinh Thị Thi 3,,http://camera.thongtingiaothong.vn/api/snapshot/62da3e840637a10017d7073d
+56de42f611f398ec0c481288,POINT(106.697652339935 10.7637917349984),Quận 1,Võ Văn Kiệt - Cầu Ông Lãnh 1,210,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481288
+5a824f975058170011f6eab8,POINT(106.676913499832 10.8310719980749),,Nguyễn Oanh - Phan Văn Trị (2),285,http://camera.thongtingiaothong.vn/api/snapshot/5a824f975058170011f6eab8
+5a824c3e5058170011f6eaae,POINT(106.621649265289 10.7738836803625),,Nút giao Bốn Xã 1 (Bình Long),210,http://camera.thongtingiaothong.vn/api/snapshot/5a824c3e5058170011f6eaae
+5deb576d1dc17d7c5515acf9,POINT(106.68202 10.777768),,Nút giao Công Trường Dân Chủ,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf9
+587470c2b807da0011e33ce4,POINT(106.715097427368 10.7892027649838),Quận Bình Thạnh,Nguyễn Hữu Cảnh - Ngô Tất Tố (Cầu Thủ Thiêm 1),90,http://camera.thongtingiaothong.vn/api/snapshot/587470c2b807da0011e33ce4
+584e734a61cfea0012cf694f,POINT(106.60130739212 10.8162345391232),Quận Bình Tân,Quốc lộ 1 - Lê Trọng Tấn,270,http://camera.thongtingiaothong.vn/api/snapshot/584e734a61cfea0012cf694f
+662b7f251afb9c00172dc8bc,POINT(106.697995662689 10.7767873576075),,Nam Kỳ Khởi Nghĩa - Nguyễn Du,,http://camera.thongtingiaothong.vn/api/snapshot/662b7f251afb9c00172dc8bc
+6623ec826f998a001b252686,POINT(106.676613092422 10.8419361769392),,Nguyễn Oanh - Lê Đức Thọ,,http://camera.thongtingiaothong.vn/api/snapshot/6623ec826f998a001b252686
+5deb576d1dc17d7c5515ad23,POINT(106.659903 10.763649),,Ba Tháng Hai - Lý Thường Kiệt,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad23
+587efb60b807da0011e33d5d,POINT(106.689192652702 10.8192748027252),Quận Gò Vấp,Phạm Văn Đồng - Lê Quang Định 1,75,http://camera.thongtingiaothong.vn/api/snapshot/587efb60b807da0011e33d5d
+589ad89eb3bf7600110283ac,POINT(106.633611917496 10.8486167661312),Quận 12,Tô Ký (Tỉnh lộ 15) - Hẻm 146,135,http://camera.thongtingiaothong.vn/api/snapshot/589ad89eb3bf7600110283ac
+662b5adc1afb9c00172d925b,POINT(106.629202365875 10.8235795946401),,Trường Chinh - Phan Huy Ích 1,,http://camera.thongtingiaothong.vn/api/snapshot/662b5adc1afb9c00172d925b
+5701e22bc4350a1100e26f6c,POINT(106.699680089951 10.7671171078657),Quận 1,Nguyễn Công Trứ - Calmette 1,30,http://camera.thongtingiaothong.vn/api/snapshot/5701e22bc4350a1100e26f6c
+5b87c386ca057700116404a6,POINT(106.715902090073 10.7710432140034),,Đường hầm (Đầu hầm Tp Thủ Đức),255,http://camera.thongtingiaothong.vn/api/snapshot/5b87c386ca057700116404a6
+5d8cd542766c880017188948,POINT(106.757980585098 10.8511456568495),,Võ Văn Ngân - Đặng Văn Bi,150,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd542766c880017188948
+6623e8406f998a001b252465,POINT(106.692352294922 10.8031773894881),,Phan Đăng Lưu - Hoàng Hoa Thám,,http://camera.thongtingiaothong.vn/api/snapshot/6623e8406f998a001b252465
+5875cef0b807da0011e33d14,POINT(106.632796525955 10.8134629721378),Quận Tân Bình,Trường Chinh - Phạm Văn Bạch 2,345,http://camera.thongtingiaothong.vn/api/snapshot/5875cef0b807da0011e33d14
+5a823d555058170011f6eaa2,POINT(106.702115535736 10.7791113331904),,Lý Tự Trọng - Hai Bà Trưng 1,45,http://camera.thongtingiaothong.vn/api/snapshot/5a823d555058170011f6eaa2
+595da2853dcfc400106f2883,POINT(106.698827147484 10.8601019727034),,Quốc lộ 1 - Đường 15 (1),,http://camera.thongtingiaothong.vn/api/snapshot/595da2853dcfc400106f2883
+587c8183b807da0011e33d3f,POINT(106.662268638611 10.8013067666529),Quận Tân Bình,Hoàng Văn Thụ - Trần Quốc Hoàn,225,http://camera.thongtingiaothong.vn/api/snapshot/587c8183b807da0011e33d3f
+5b632950fd4edb0019c7dc07,POINT(106.684874296188 10.7568773715932),,Nguyễn Văn Cừ - Trần Hưng Đạo 3,135,http://camera.thongtingiaothong.vn/api/snapshot/5b632950fd4edb0019c7dc07
+5deb576d1dc17d7c5515ad06,POINT(106.699558 10.788566),,Đinh Tiên Hoàng - Nguyễn Đình Chiểu,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad06
+662b54711afb9c00172d8d4f,POINT(106.680099964142 10.8160870038835),,90 Nguyễn Thái Sơn,,http://camera.thongtingiaothong.vn/api/snapshot/662b54711afb9c00172d8d4f
+5a8279865058170011f6eaef,POINT(106.677889823914 10.7275738904052),,Nguyễn Văn Linh - Phạm Hùng 2,330,http://camera.thongtingiaothong.vn/api/snapshot/5a8279865058170011f6eaef
+662b4faa1afb9c00172d875e,POINT(106.649479866028 10.7497256871815),,Tháp Mười - Phạm Đình Hổ,,http://camera.thongtingiaothong.vn/api/snapshot/662b4faa1afb9c00172d875e
+662a87641afb9c00172d24b0,POINT(106.580879688263 10.7492250102216),,Võ Trần Chí - Trần Văn Giàu 2,,http://camera.thongtingiaothong.vn/api/snapshot/662a87641afb9c00172d24b0
+56de42f611f398ec0c4812a1,POINT(106.7747069 10.769926),Quận 2,Nút giao Mỹ Thủy 1,,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c4812a1
+63ae7669bfd3d90017e8f0d9,POINT(106.702179908752 10.7528720275909),,Khánh Hội - Cầu Kênh Tẻ,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7669bfd3d90017e8f0d9
+63b65e6abfd3d90017eaa361,POINT(106.754236221313 10.7903304548658),,Nguyễn Thị Định - Thân Văn Nhiếp,,http://camera.thongtingiaothong.vn/api/snapshot/63b65e6abfd3d90017eaa361
+662a8fd41afb9c00172d2bac,POINT(106.732370853424 10.7045402040992),,Nguyễn Lương Bằng - Phạm Hữu Lầu,,http://camera.thongtingiaothong.vn/api/snapshot/662a8fd41afb9c00172d2bac
+56f11afc3ac17b11001c504e,POINT(106.664215922356 10.8048741133609),Quận Tân Bình,Trường Sơn - Phan Đình Giót,180,http://camera.thongtingiaothong.vn/api/snapshot/56f11afc3ac17b11001c504e
+5a825b7d5058170011f6ead4,POINT(106.700441837311 10.7282010989927),,Nguyễn Văn Linh - Nguyễn Hữu Thọ (3),15,http://camera.thongtingiaothong.vn/api/snapshot/5a825b7d5058170011f6ead4
+5a6069238576340017d0661c,POINT(106.698435544968 10.8026188385378),,Bạch Đằng - Lê Quang Định,,http://camera.thongtingiaothong.vn/api/snapshot/5a6069238576340017d0661c
+662b857b1afb9c00172dd106,POINT(106.699739098549 10.7920852162229),,Điện Biên Phủ - Nguyễn Bỉnh Khiêm,,http://camera.thongtingiaothong.vn/api/snapshot/662b857b1afb9c00172dd106
+56de42f611f398ec0c481298,POINT(106.61993265152 10.7263616348268),Quận Bình Tân,Võ Văn Kiệt - An Dương Vương 1,120,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481298
+63ae75f9bfd3d90017e8f097,POINT(106.683275699615 10.769072262419),,Cao Thắng – Võ Văn Tần 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae75f9bfd3d90017e8f097
+65e0556b6b18080018db665e,POINT(106.694637537003 10.7689774034613),,Nguyễn Thái Học - Phạm Ngũ Lão,,http://camera.thongtingiaothong.vn/api/snapshot/65e0556b6b18080018db665e
+63ae78ccbfd3d90017e8f1f9,POINT(106.683876514435 10.7558233388544),,Trần Hưng Đạo – Nguyễn Biểu 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae78ccbfd3d90017e8f1f9
+662b81eb1afb9c00172dcc85,POINT(106.703939437866 10.7882331590867),,Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 2,,http://camera.thongtingiaothong.vn/api/snapshot/662b81eb1afb9c00172dcc85
+63b54d27bfd3d90017ea7ae5,POINT(106.787774562836 10.8581948267685),,Xa lộ Hà Nội - Đường D1,,http://camera.thongtingiaothong.vn/api/snapshot/63b54d27bfd3d90017ea7ae5
+662a8cc51afb9c00172d2938,POINT(106.732006072998 10.7307995207108),,Huỳnh Tấn Phát - Phú Thuận,,http://camera.thongtingiaothong.vn/api/snapshot/662a8cc51afb9c00172d2938
+587654d3b807da0011e33d36,POINT(106.767582893372 10.7625480044979),Quận 2,Võ Chí Công - Đường số 2,45,http://camera.thongtingiaothong.vn/api/snapshot/587654d3b807da0011e33d36
+5990ffdbbec3b90016d2ad2d,POINT(106.713402271271 10.7705847317646),,Đường hầm (Đầu hầm Tp Thủ Đức),255,http://camera.thongtingiaothong.vn/api/snapshot/5990ffdbbec3b90016d2ad2d
+5a8259035058170011f6eacf,POINT(106.700549125671 10.7291234621994),,Nguyễn Văn Linh - Nguyễn Hữu Thọ (1),180,http://camera.thongtingiaothong.vn/api/snapshot/5a8259035058170011f6eacf
+63b54cffbfd3d90017ea7ad0,POINT(106.732392311096 10.8730512767713),,Tỉnh lộ 43 - Chân cầu Gò Dưa,,http://camera.thongtingiaothong.vn/api/snapshot/63b54cffbfd3d90017ea7ad0
+589b4644b3bf7600110283ce,POINT(106.693124771118 10.8984214318454),Quận 12,Hà Huy Giáp - Cầu Phú Long 1,300,http://camera.thongtingiaothong.vn/api/snapshot/589b4644b3bf7600110283ce
+63b54fe4bfd3d90017ea7ca2,POINT(106.775146722794 10.7701684082075),,Nút giao Mỹ Thủy (5),,http://camera.thongtingiaothong.vn/api/snapshot/63b54fe4bfd3d90017ea7ca2
+63b54938bfd3d90017ea77f6,POINT(106.817160844803 10.8055485847835),,Nguyễn Duy Trinh - Lã Xuân Oai,,http://camera.thongtingiaothong.vn/api/snapshot/63b54938bfd3d90017ea77f6
+6623ebd76f998a001b25264d,POINT(106.626455783844 10.8522309658882),,Quốc Lộ 1 - Tô Ký,,http://camera.thongtingiaothong.vn/api/snapshot/6623ebd76f998a001b25264d
+5a6086e88576340017d0668a,POINT(106.594237089157 10.7485662234825),,QL1-Cty Pouyuen (1),150,http://camera.thongtingiaothong.vn/api/snapshot/5a6086e88576340017d0668a
+586e2995f9fab7001111b0b5,POINT(106.716395616531 10.8075192972885),Quận Bình Thạnh,Ung Văn Khiêm - Nguyễn Gia Trí (D2),345,http://camera.thongtingiaothong.vn/api/snapshot/586e2995f9fab7001111b0b5
+5d8cd98d766c88001718895a,POINT(106.751462817192 10.8533952979021),,Phạm Văn Đồng - Tô Ngọc Vân (hướng đi Bình Dương),300,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd98d766c88001718895a
+6623ee666f998a001b252726,POINT(106.640124320984 10.8442965283387),,Quang Trung - Phan Huy Ích,,http://camera.thongtingiaothong.vn/api/snapshot/6623ee666f998a001b252726
+662b84c11afb9c00172dd0b5,POINT(106.696933507919 10.7817830924671),,Nguyễn Thị Minh Khai - Phạm Ngọc Thạch,,http://camera.thongtingiaothong.vn/api/snapshot/662b84c11afb9c00172dd0b5
+662b51201afb9c00172d889a,POINT(106.60413980484 10.7654465210122),,Hương Lộ 2 - Mã Lò,,http://camera.thongtingiaothong.vn/api/snapshot/662b51201afb9c00172d889a
+56df8198c062921100c143dd,POINT(106.773784160614 10.8492753334826),Quận Thủ Đức,Nút giao Thủ Đức (Võ Văn Ngân),120,http://camera.thongtingiaothong.vn/api/snapshot/56df8198c062921100c143dd
+56de42f611f398ec0c481282,POINT(106.74994468689 10.7876851195878),Quận 2,Mai Chí Thọ - Đồng Văn Cống 2,225,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481282
+5a6066608576340017d06617,POINT(106.647216081619 10.839438820585),,Quang Trung - Tân Sơn,210,http://camera.thongtingiaothong.vn/api/snapshot/5a6066608576340017d06617
+6623ea416f998a001b25260a,POINT(106.681151390076 10.7971913554037),,Phan Đình Phùng - Nguyễn Trọng Tuyển,,http://camera.thongtingiaothong.vn/api/snapshot/6623ea416f998a001b25260a
+662b872d1afb9c00172dd36a,POINT(106.677889823914 10.7878115903301),,Lê Văn Sỹ - Trần Quang Diệu,,http://camera.thongtingiaothong.vn/api/snapshot/662b872d1afb9c00172dd36a
+6623e4b06f998a001b2522f1,POINT(106.686387062073 10.7703792050172),,Nguyễn Thị Minh Khai - Nguyễn Thượng Hiền,,http://camera.thongtingiaothong.vn/api/snapshot/6623e4b06f998a001b2522f1
+56de42f611f398ec0c48127e,POINT(106.754064559937 10.8062546704304),Quận 2,Mai Chí Thọ - Võ Nguyên Giáp (Cát Lái cầu B),45,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48127e
+595dd3a63dcfc400106f28a7,POINT(106.671018004417 10.8617667641718),,Quốc lộ 1 - Đường Tô Ngọc Vân 1,,http://camera.thongtingiaothong.vn/api/snapshot/595dd3a63dcfc400106f28a7
+56f8d743025e9511002786c5,POINT(106.664929389954 10.8128675561166),Quận Tân Bình,Trường Sơn - Ga Quốc Nội 1,15,http://camera.thongtingiaothong.vn/api/snapshot/56f8d743025e9511002786c5
+5a8266105058170011f6eadf,POINT(106.655761599541 10.7190774577163),,Nguyễn Văn Linh - Quốc lộ 50 (2),345,http://camera.thongtingiaothong.vn/api/snapshot/5a8266105058170011f6eadf
+662b5afe1afb9c00172d9284,POINT(106.629813909531 10.8227260178037),,Trường Chinh - Phan Huy Ích 2,,http://camera.thongtingiaothong.vn/api/snapshot/662b5afe1afb9c00172d9284
+5a82602c5058170011f6ead9,POINT(106.579173803329 10.8135788937036),,Vĩnh Lộc - Nguyễn Thị Tú 1,60,http://camera.thongtingiaothong.vn/api/snapshot/5a82602c5058170011f6ead9
+585b2980c3f96200127dc502,POINT(106.727993488312 10.755127675229),Quận 7,Huỳnh Tấn Phát - Lưu Trọng Lư 2,225,http://camera.thongtingiaothong.vn/api/snapshot/585b2980c3f96200127dc502
+662b56c51afb9c00172d9071,POINT(106.671742200851 10.8146485314923),,Bạch Đằng - Đặng Văn Sâm,,http://camera.thongtingiaothong.vn/api/snapshot/662b56c51afb9c00172d9071
+63ae7a08bfd3d90017e8f285,POINT(106.673265695572 10.7710959130666),,Ba Tháng Hai - Lê Hồng Phong 1,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7a08bfd3d90017e8f285
+662a8b061afb9c00172d27d7,POINT(106.660873889923 10.7232729964823),,Nguyễn Văn Linh - đường số 1,,http://camera.thongtingiaothong.vn/api/snapshot/662a8b061afb9c00172d27d7
+587ee7d7b807da0011e33d55,POINT(106.694852113724 10.8031879281753),Quận Bình Thạnh,Phan Đăng Lưu - Nơ Trang Long,180,http://camera.thongtingiaothong.vn/api/snapshot/587ee7d7b807da0011e33d55
+5deb576d1dc17d7c5515ad17,POINT(106.698076 10.782987),,Nguyễn Thị Minh Khai - Hai Bà Trưng,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad17
+662b51a41afb9c00172d8926,POINT(106.601006984711 10.7763973916927),,Lê Văn Quới - Mã Lò,,http://camera.thongtingiaothong.vn/api/snapshot/662b51a41afb9c00172d8926
+63ae7893bfd3d90017e8f1e1,POINT(106.707345843315 10.7643450880206),,Nguyễn Tất Thành - Lê Văn Linh,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7893bfd3d90017e8f1e1
+662a8b9e1afb9c00172d284d,POINT(106.585782766342 10.6882837981823),,đường dẫn cao tốc Thành Phố Hồ Chí Minh - Trung Lương - Tân Túc 1,,http://camera.thongtingiaothong.vn/api/snapshot/662a8b9e1afb9c00172d284d
+662b5a401afb9c00172d91fc,POINT(106.6437292099 10.7980239271457),,Trường Chinh - Nguyễn Hồng Đào,,http://camera.thongtingiaothong.vn/api/snapshot/662b5a401afb9c00172d91fc
+56df8544c062921100c143e6,POINT(106.665363907814 10.8136315853096),Quận Tân Bình,Trường Sơn - Ga Quốc Tế,240,http://camera.thongtingiaothong.vn/api/snapshot/56df8544c062921100c143e6
+595ddb493dcfc400106f28b6,POINT(106.649731993675 10.8620881310764),,Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 2,255,http://camera.thongtingiaothong.vn/api/snapshot/595ddb493dcfc400106f28b6
+66b1c1f2779f740018673f0d,POINT(106.683179140091 10.7611040058688),,An Dương Vương - Nguyễn Văn Cừ,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c1f2779f740018673f0d
+5a60604f8576340017d0660b,POINT(106.686376333237 10.8243172516762),,Nguyễn Thái Sơn - Nguyễn Văn Nghi 2,30,http://camera.thongtingiaothong.vn/api/snapshot/5a60604f8576340017d0660b
+5d8cd9cb766c88001718895c,POINT(106.751317977905 10.8536007677866),,Phạm Văn Đồng - Tô Ngọc Vân (hướng đi Sân bay),195,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd9cb766c88001718895c
+6623e6b86f998a001b2523b8,POINT(106.676344871521 10.7669642785384),,Lý Thái Tổ - Hồ Thị Kỷ,,http://camera.thongtingiaothong.vn/api/snapshot/6623e6b86f998a001b2523b8
+5a8256315058170011f6eac9,POINT(106.709566712379 10.8133575888573),,Đinh Bộ Lĩnh - Nguyễn Xí,210,http://camera.thongtingiaothong.vn/api/snapshot/5a8256315058170011f6eac9
+5ad064b498d8fc001102e26f,POINT(106.805992126465 10.827699912827),,Lã Xuân Oai - Cầu Tăng Long (2),150,http://camera.thongtingiaothong.vn/api/snapshot/5ad064b498d8fc001102e26f
+58af8d68bd82540010390c2e,POINT(106.690700054169 10.7833376554873),Quận 3,Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 2,45,http://camera.thongtingiaothong.vn/api/snapshot/58af8d68bd82540010390c2e
+65e0552f6b18080018db6647,POINT(106.697888374329 10.7717072215258),,Lê Lai - Phan Chu Trinh,,http://camera.thongtingiaothong.vn/api/snapshot/65e0552f6b18080018db6647
+66b1c22f779f740018673f6e,POINT(106.633923053741 10.7536309389593),,Vòng xoay Phú Lâm (2),,http://camera.thongtingiaothong.vn/api/snapshot/66b1c22f779f740018673f6e
+662a8e121afb9c00172d2a3f,POINT(106.723868250847 10.7554228054478),,Huỳnh Tấn Phát - cầu Tân Thuận 1,,http://camera.thongtingiaothong.vn/api/snapshot/662a8e121afb9c00172d2a3f
+662b5be91afb9c00172d939b,POINT(106.618773937225 10.8082464553192),,Lê Trọng Tấn - Tây Thạnh,,http://camera.thongtingiaothong.vn/api/snapshot/662b5be91afb9c00172d939b
+5b728aafca0577001163ff7e,POINT(106.658910512924 10.7548430851016),,Hồng Bàng - Châu Văn Liêm,240,http://camera.thongtingiaothong.vn/api/snapshot/5b728aafca0577001163ff7e
+63ae7966bfd3d90017e8f240,POINT(106.672096252441 10.7828791919741),,Cách Mạng Tháng Tám - Tô Hiến Thành,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7966bfd3d90017e8f240
+662b4efc1afb9c00172d86bc,POINT(106.667847633362 10.7525663544172),,Trần Hưng Đạo - Trần Phú,,http://camera.thongtingiaothong.vn/api/snapshot/662b4efc1afb9c00172d86bc
+662b87551afb9c00172dd43a,POINT(106.683104038239 10.7848974801384),,Trần Quốc Thảo - Kỳ Đồng,,http://camera.thongtingiaothong.vn/api/snapshot/662b87551afb9c00172dd43a
+5deb576d1dc17d7c5515ad21,POINT(106.668851 10.759539),,Nút giao Ngã sáu Nguyễn Tri Phương,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad21
+56de42f611f398ec0c481289,POINT(106.698285341263 10.7639024056841),Quận 1,Võ Văn Kiệt - Cầu Ông Lãnh 2,255,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481289
+58ad69c4bd82540010390be7,POINT(106.680368185043 10.7993096663153),Quận Phú Nhuận,Nút giao Phú Nhuận 2 (Phan Đăng Lưu),240,http://camera.thongtingiaothong.vn/api/snapshot/58ad69c4bd82540010390be7
+6623f5876f998a001b25291a,POINT(106.745932102203 10.8021340576256),,Võ Nguyên Giáp - quay đầu An Phú (1),,http://camera.thongtingiaothong.vn/api/snapshot/6623f5876f998a001b25291a
+6623e2e16f998a001b252233,POINT(106.689380407333 10.7899088890498),,Hai Bà Trưng - Trần Quốc Toản,,http://camera.thongtingiaothong.vn/api/snapshot/6623e2e16f998a001b252233
+63b54898bfd3d90017ea77ae,POINT(106.796894073486 10.7912052020479),,Nguyễn Duy Trinh - Bưng Ông Thoàn,,http://camera.thongtingiaothong.vn/api/snapshot/63b54898bfd3d90017ea77ae
+63b549b8bfd3d90017ea782c,POINT(106.769192218781 10.8244331690453),,Đỗ Xuân Hợp - Tây Hòa,,http://camera.thongtingiaothong.vn/api/snapshot/63b549b8bfd3d90017ea782c
+662b5b271afb9c00172d9296,POINT(106.640210151672 10.7999419950356),,Trường Chinh - Tân Hải,,http://camera.thongtingiaothong.vn/api/snapshot/662b5b271afb9c00172d9296
+662a87df1afb9c00172d2522,POINT(106.585021018982 10.7478547321893),,Trần Văn Giàu - Nguyễn Cửu Phú,,http://camera.thongtingiaothong.vn/api/snapshot/662a87df1afb9c00172d2522
+5a823bd55058170011f6eaa0,POINT(106.695860624313 10.7675334356397),,Trần Hưng Đạo - Nguyễn Thái Học 2,150,http://camera.thongtingiaothong.vn/api/snapshot/5a823bd55058170011f6eaa0
+5a6085688576340017d06684,POINT(106.591758728027 10.756524271036),,QL1-Tỉnh lộ 10 (3),90,http://camera.thongtingiaothong.vn/api/snapshot/5a6085688576340017d06684
+6623e88c6f998a001b25248b,POINT(106.676033735275 10.8111972234488),,Hoàng Minh Giám - Đăng Văn Sâm,,http://camera.thongtingiaothong.vn/api/snapshot/6623e88c6f998a001b25248b
+63b54996bfd3d90017ea781a,POINT(106.774277687073 10.8167087590452),,Đỗ Xuân Hợp - Dương Đình Hội,,http://camera.thongtingiaothong.vn/api/snapshot/63b54996bfd3d90017ea781a
+56de42f611f398ec0c481283,POINT(106.72761797905 10.775796632403),Quận 2,Mai Chí Thọ - Trần Não 1,225,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481283
+662b57ec1afb9c00172d90e3,POINT(106.64838552475 10.8018284344744),,Cộng Hòa - Hoàng Hoa Thám,,http://camera.thongtingiaothong.vn/api/snapshot/662b57ec1afb9c00172d90e3
+662b50571afb9c00172d87df,POINT(106.656239032745 10.7375142028136),,Quốc Lộ 50 - Bùi Minh Trực,,http://camera.thongtingiaothong.vn/api/snapshot/662b50571afb9c00172d87df
+56df8274c062921100c143df,POINT(106.761032938957 10.8264933293527),Quận 9,Võ Nguyên Giáp - Tây Hòa 1,300,http://camera.thongtingiaothong.vn/api/snapshot/56df8274c062921100c143df
+662b52131afb9c00172d8a23,POINT(106.606982946396 10.7581738268099),,Tỉnh lộ 10 - Mã Lò,,http://camera.thongtingiaothong.vn/api/snapshot/662b52131afb9c00172d8a23
+5a6061fd8576340017d06613,POINT(106.596522331238 10.8885285926454),,Quang Trung - Trưng Nữ Vương,,http://camera.thongtingiaothong.vn/api/snapshot/5a6061fd8576340017d06613
+6623f0246f998a001b252797,POINT(106.638236045837 10.7957475229889),,Âu Cơ - Lũy Bán Bích,,http://camera.thongtingiaothong.vn/api/snapshot/6623f0246f998a001b252797
+6623f3436f998a001b252863,POINT(106.761660575867 10.8664976715355),,Phạm Văn Đồng - Kha Vạn Cân 1,,http://camera.thongtingiaothong.vn/api/snapshot/6623f3436f998a001b252863
+66b1c311779f740018674083,POINT(106.634910106659 10.7543371464344),,Vòng xoay Phú Lâm (1),,http://camera.thongtingiaothong.vn/api/snapshot/66b1c311779f740018674083
+662a896e1afb9c00172d2674,POINT(106.577425003052 10.7302724592873),,Võ Trần Chí - Trần Đại Nghĩa,,http://camera.thongtingiaothong.vn/api/snapshot/662a896e1afb9c00172d2674
+662a8cfe1afb9c00172d296e,POINT(106.729581356049 10.7433433113335),,Huỳnh Tấn Phát - Trần Trọng Cung,,http://camera.thongtingiaothong.vn/api/snapshot/662a8cfe1afb9c00172d296e
+587461c1b807da0011e33cc8,POINT(106.765501499176 10.8735570152435),Quận Thủ Đức,Quốc lộ 1 - Ngã tư Linh Xuân,240,http://camera.thongtingiaothong.vn/api/snapshot/587461c1b807da0011e33cc8
+63ae76afbfd3d90017e8f106,POINT(106.699776649475 10.7579524811918),,Khánh Hội - Đường số 41,,http://camera.thongtingiaothong.vn/api/snapshot/63ae76afbfd3d90017e8f106
+583f926761cfea0012cf68f1,POINT(106.786578297615 10.7599709364081),Quận 2,Nguyễn Thị Định - Cổng A Cảng Cát Lái,120,http://camera.thongtingiaothong.vn/api/snapshot/583f926761cfea0012cf68f1
+56df81d8c062921100c143de,POINT(106.774009466171 10.8491804998734),Quận Thủ Đức,Nút giao Thủ Đức (trên cầu),45,http://camera.thongtingiaothong.vn/api/snapshot/56df81d8c062921100c143de
+63ae73cebfd3d90017e8f00d,POINT(106.684364676476 10.7684240589462),,Nguyễn Thị Minh Khai - Cống Quỳnh,150,http://camera.thongtingiaothong.vn/api/snapshot/63ae73cebfd3d90017e8f00d
+662a8a661afb9c00172d2762,POINT(106.610469818115 10.6939873445986),,Nguyễn Văn Linh - Quản Trọng Linh,,http://camera.thongtingiaothong.vn/api/snapshot/662a8a661afb9c00172d2762
+5a6084898576340017d06680,POINT(106.590535640717 10.7642238774455),,QL1 - Tân Tạo Chợ Đệm 3,180,http://camera.thongtingiaothong.vn/api/snapshot/5a6084898576340017d06680
+56de42f611f398ec0c48129b,POINT(106.611467599869 10.721839351587),Quận Bình Tân,Võ Văn Kiệt - Hồ Học Lãm 2,315,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48129b
+586e2492f9fab7001111b0ab,POINT(106.675336360931 10.7955947082032),Quận Phú Nhuận,Nguyễn Văn Trỗi - Nguyễn Đình Chính,105,http://camera.thongtingiaothong.vn/api/snapshot/586e2492f9fab7001111b0ab
+662b571d1afb9c00172d9083,POINT(106.660181879997 10.7892923479795),,Cách Mạng Tháng Tám - Phạm Văn Hai (2),,http://camera.thongtingiaothong.vn/api/snapshot/662b571d1afb9c00172d9083
+62da3e620637a10017d70720,POINT(106.718176603317 10.8456979781692),,Quốc Lộ 13 - Đinh Thị Thi 2,,http://camera.thongtingiaothong.vn/api/snapshot/62da3e620637a10017d70720
+5b0b7aba0e517b00119fd800,POINT(106.685367822647 10.7563714363383),,Nguyễn Văn Cừ - Trần Hưng Đạo 1,315,http://camera.thongtingiaothong.vn/api/snapshot/5b0b7aba0e517b00119fd800
+63b54909bfd3d90017ea77e4,POINT(106.792902946472 10.7909838807122),,Nguyễn Duy Trinh - Võ Chí Công 2,,http://camera.thongtingiaothong.vn/api/snapshot/63b54909bfd3d90017ea77e4
+662a8ddd1afb9c00172d2a0f,POINT(106.725064516068 10.752102573838),,Nguyễn Văn Linh - cầu Tân Thuận 2,,http://camera.thongtingiaothong.vn/api/snapshot/662a8ddd1afb9c00172d2a0f
+5a8250cc5058170011f6eaba,POINT(106.78128361702 10.8445494220268),,Lê Văn Việt - Đình Phong Phú 1,120,http://camera.thongtingiaothong.vn/api/snapshot/5a8250cc5058170011f6eaba
+5d8cd3b7766c880017188942,POINT(106.678184866905 10.7573411448313),,Lê Hồng Phong - Nguyễn Trãi,180,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd3b7766c880017188942
+56de42f611f398ec0c48129a,POINT(106.610904335976 10.722239929521),Quận Bình Tân,Võ Văn Kiệt - Hồ Học Lãm 1,135,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48129a
+662b57711afb9c00172d90a7,POINT(106.649898290634 10.8017125083701),,Cộng Hòa - Đường A4,,http://camera.thongtingiaothong.vn/api/snapshot/662b57711afb9c00172d90a7
+63b54968bfd3d90017ea7808,POINT(106.781616210938 10.7904358462274),,Nguyễn Duy Trinh - Đỗ Xuân Hợp,,http://camera.thongtingiaothong.vn/api/snapshot/63b54968bfd3d90017ea7808
+56de42f611f398ec0c48127f,POINT(106.751103401184 10.791531914198),Quận 2,Mai Chí Thọ - Lương Định Của 1,60,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48127f
+58df5016dc195800111e04bd,POINT(106.668566465378 10.8133259738659),Quận Tân Bình,Yên Thế - Hồng Hà,,http://camera.thongtingiaothong.vn/api/snapshot/58df5016dc195800111e04bd
+5d8cdac3766c880017188962,POINT(106.645912528038 10.7970385413523),,Trường Chinh - Đồng Đen,195,http://camera.thongtingiaothong.vn/api/snapshot/5d8cdac3766c880017188962
+587ef5dfb807da0011e33d59,POINT(106.679853200912 10.7928914544929),Quận Phú Nhuận,Nguyễn Văn Trỗi - Huỳnh Văn Bánh,240,http://camera.thongtingiaothong.vn/api/snapshot/587ef5dfb807da0011e33d59
+662b85f51afb9c00172dd1c2,POINT(106.694197654724 10.7698416728609),,Nguyễn Thị Nghĩa - Lê Lai,,http://camera.thongtingiaothong.vn/api/snapshot/662b85f51afb9c00172dd1c2
+63b54d5abfd3d90017ea7afe,POINT(106.755888462067 10.8266672041268),,Đường số 1 - Cảng Phước Long,,http://camera.thongtingiaothong.vn/api/snapshot/63b54d5abfd3d90017ea7afe
+5deb576d1dc17d7c5515ad13,POINT(106.700359 10.775708),,Pasteur - Lê Thánh Tôn,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad13
+662b862a1afb9c00172dd1ff,POINT(106.699524521828 10.7711749616441),,Hàm Nghi - Phó Đức Chính,,http://camera.thongtingiaothong.vn/api/snapshot/662b862a1afb9c00172dd1ff
+5deb576d1dc17d7c5515acf2,POINT(106.683694124222 10.7765712954739),,Điện Biên Phủ - Cách Mạng Tháng Tám,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf2
+5a824e465058170011f6eab4,POINT(106.658325791359 10.8366990807787),,Quang Trung - Lê Văn Thọ (2),165,http://camera.thongtingiaothong.vn/api/snapshot/5a824e465058170011f6eab4
+662b57471afb9c00172d9095,POINT(106.641572713852 10.8023975256098),,Cộng Hòa - Ấp Bắc,,http://camera.thongtingiaothong.vn/api/snapshot/662b57471afb9c00172d9095
+56de42f611f398ec0c481291,POINT(106.668738126755 10.7503370389747),Quận 5,Võ Văn Kiệt - Nguyễn Tri Phương 1,,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481291
+584e71cb61cfea0012cf694b,POINT(106.603265404701 10.8248968380735),Quận Bình Tân,Quốc lộ 1 - KCN Vĩnh Lộc 3,270,http://camera.thongtingiaothong.vn/api/snapshot/584e71cb61cfea0012cf694b
+63b54c93bfd3d90017ea7ab8,POINT(106.777850389481 10.8589007882855),,Lê Văn Chí - Linh Trung,,http://camera.thongtingiaothong.vn/api/snapshot/63b54c93bfd3d90017ea7ab8
+63b3c9bfbfd3d90017e9b039,POINT(106.746854782104 10.8418834903115),,Kha Vạn Cân - Đường Số 2,,http://camera.thongtingiaothong.vn/api/snapshot/63b3c9bfbfd3d90017e9b039
+5deb576d1dc17d7c5515acf4,POINT(106.674156 10.767465),,Nút giao Ngã bảy Lý Thái Tổ,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf4
+58af99abbd82540010390c39,POINT(106.707914471626 10.7846234574745),Quận 1,Nguyễn Hữu Cảnh - Nguyễn Bỉnh Khiêm,120,http://camera.thongtingiaothong.vn/api/snapshot/58af99abbd82540010390c39
+6623ecc16f998a001b25269e,POINT(106.675518751144 10.838553676621),,Nguyễn Oanh - Nguyễn Văn Lượng,,http://camera.thongtingiaothong.vn/api/snapshot/6623ecc16f998a001b25269e
+6623e3ea6f998a001b2522ae,POINT(106.682138442993 10.7700419300508),,Nguyễn Đình Chiểu - Cao Thắng,,http://camera.thongtingiaothong.vn/api/snapshot/6623e3ea6f998a001b2522ae
+662b7d0c1afb9c00172dc6a6,POINT(106.690131425858 10.7652778808151),,Cống Quỳnh - Bùi Viện,,http://camera.thongtingiaothong.vn/api/snapshot/662b7d0c1afb9c00172dc6a6
+662b54bb1afb9c00172d8dbb,POINT(106.652623414993 10.8502078623705),,Phạm Văn Chiêu - Đường số 59,,http://camera.thongtingiaothong.vn/api/snapshot/662b54bb1afb9c00172d8dbb
+662b58bd1afb9c00172d9119,POINT(106.66899561882 10.7937556552044),,Lê Văn Sỹ - Đặng Văn Ngữ,,http://camera.thongtingiaothong.vn/api/snapshot/662b58bd1afb9c00172d9119
+59ca321b02eb490011a0a40d,POINT(106.601784825325 10.7286174804458),,QL1 - Cầu An Lập,195,http://camera.thongtingiaothong.vn/api/snapshot/59ca321b02eb490011a0a40d
+5a82439f5058170011f6eaa9,POINT(106.68364584446 10.75113811876),,Nguyễn Biểu - Cầu Chữ Y,180,http://camera.thongtingiaothong.vn/api/snapshot/5a82439f5058170011f6eaa9
+6623e5d66f998a001b25235a,POINT(106.670325994492 10.783880433226),,Cách Mạng Tháng Tám - Đỗ Thị Lời,,http://camera.thongtingiaothong.vn/api/snapshot/6623e5d66f998a001b25235a
+58d7c20ac1e33c00112b321c,POINT(106.69480919838 10.8207659432755),Quận Bình Thạnh,Phạm Văn Đồng - Phan Văn Trị 2,255,http://camera.thongtingiaothong.vn/api/snapshot/58d7c20ac1e33c00112b321c
+56df807bc062921100c143da,POINT(106.63648724556 10.8019180137061),Quận Tân Bình,Trường Chinh - Âu Cơ,120,http://camera.thongtingiaothong.vn/api/snapshot/56df807bc062921100c143da
+662b82a61afb9c00172dcdfd,POINT(106.689380407333 10.7916478442304),,Trần Quang Khải - Trần Nhật Duật,,http://camera.thongtingiaothong.vn/api/snapshot/662b82a61afb9c00172dcdfd
+586e266ef9fab7001111b0b0,POINT(106.633150577545 10.8140847327392),Quận Tân Bình,Trường Chinh - Phạm Văn Bạch 1,240,http://camera.thongtingiaothong.vn/api/snapshot/586e266ef9fab7001111b0b0
+63ae7a74bfd3d90017e8f2c7,POINT(106.665540933609 10.7778940148849),,Tô Hiến Thành – Sư Vạn Hạnh,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7a74bfd3d90017e8f2c7
+59d3414302eb490011a0a610,POINT(106.803814172745 10.8674828287814),,Xa Lộ Hà Nội - Đường 120,45,http://camera.thongtingiaothong.vn/api/snapshot/59d3414302eb490011a0a610
+6623e9e96f998a001b2525ce,POINT(106.681923866272 10.7958634513952),,Phan Đình Phùng - Huynh Văn Bánh,,http://camera.thongtingiaothong.vn/api/snapshot/6623e9e96f998a001b2525ce
+63ae7a9cbfd3d90017e8f303,POINT(106.679091453552 10.7727295794518),,Điện Biên Phủ – Cao Thắng,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7a9cbfd3d90017e8f303
+5a6085188576340017d06682,POINT(106.592434644699 10.7563292750288),,QL1-Tỉnh lộ 10 (2),270,http://camera.thongtingiaothong.vn/api/snapshot/5a6085188576340017d06682
+5a606a0f8576340017d0661e,POINT(106.704116463661 10.8200809679719),,Nơ Trang Long - Nguyễn Xí,,j
+56de42f611f398ec0c481286,POINT(106.722918748856 10.7733830435244),Quận 2,Mai Chí Thọ - Nguyễn Cơ Thạch 2,225,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481286
+6623f14b6f998a001b2527f0,POINT(106.632571220398 10.8037570167341),,Tân Kỳ Tân Quý - Lê Trọng Tấn,,http://camera.thongtingiaothong.vn/api/snapshot/6623f14b6f998a001b2527f0
+662b4f411afb9c00172d86fc,POINT(106.642361283302 10.7497836602495),,Hậu Giang - Minh Phụng,,http://camera.thongtingiaothong.vn/api/snapshot/662b4f411afb9c00172d86fc
+662b843d1afb9c00172dd02d,POINT(106.701825857162 10.7771984022141),,Lê Thánh Tôn - Đồng Khởi,,http://camera.thongtingiaothong.vn/api/snapshot/662b843d1afb9c00172dd02d
+595d9b3b3dcfc400106f287e,POINT(106.70542538166 10.8592853785591),,Quốc lộ 1 - An Phú Đông 12 (1),270,http://camera.thongtingiaothong.vn/api/snapshot/595d9b3b3dcfc400106f287e
+58df50ffdc195800111e04c0,POINT(106.660755872726 10.8009484488364),Quận Tân Bình,Cộng Hòa - Thăng Long,225,http://camera.thongtingiaothong.vn/api/snapshot/58df50ffdc195800111e04c0
+662b50e51afb9c00172d886a,POINT(106.624610424042 10.7559709036596),,Bà Hom - An Dương Vương,,http://camera.thongtingiaothong.vn/api/snapshot/662b50e51afb9c00172d886a
+5deb576d1dc17d7c5515ad1a,POINT(106.697417 10.779127),,Pasteur - Lê Duẩn,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad1a
+5deb576d1dc17d7c5515ad0b,POINT(106.699042 10.775615),,Nam Kỳ Khởi Nghĩa - Lý Tự Trọng,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad0b
+5a6087858576340017d0668e,POINT(106.598871946335 10.7414565055181),,QL1-Trạm Biến Áp 500Kv Phú Lâm,150,http://camera.thongtingiaothong.vn/api/snapshot/5a6087858576340017d0668e
+662b4e581afb9c00172d862f,POINT(106.677095890045 10.7604188946108),,Lê Hồng Phong - Trần Phú,,http://camera.thongtingiaothong.vn/api/snapshot/662b4e581afb9c00172d862f
+587464e2b807da0011e33cd9,POINT(106.733132600784 10.8699588780888),Quận Thủ Đức,Cầu vượt nút giao thông Gò Dưa,60,http://camera.thongtingiaothong.vn/api/snapshot/587464e2b807da0011e33cd9
+63b54c51bfd3d90017ea7aa0,POINT(106.760228276253 10.8266882798502),,Đường số 1 - Nguyễn Văn Bá,,http://camera.thongtingiaothong.vn/api/snapshot/63b54c51bfd3d90017ea7aa0
+58ad6214bd82540010390be2,POINT(106.647366285324 10.8013120360293),Quận Tân Bình,Cộng Hòa - Hoàng Hoa Thám,15,http://camera.thongtingiaothong.vn/api/snapshot/58ad6214bd82540010390be2
+5deb576d1dc17d7c5515ad09,POINT(106.647017598152 10.7964536316791),,Trường Chinh - Hoàng Hoa Thám,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad09
+58af8a0bbd82540010390c25,POINT(106.688543558121 10.784533873088),Quận 3,Nam Kỳ Khởi Nghĩa - Võ Thị Sáu,45,http://camera.thongtingiaothong.vn/api/snapshot/58af8a0bbd82540010390c25
+56de42f611f398ec0c48128e,POINT(106.684101819992 10.7514332528817),Quận 5,Võ Văn Kiệt - Cầu Chữ Y 2,315,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48128e
+587ef859b807da0011e33d5b,POINT(106.689868569374 10.8200546227367),Quận Bình Thạnh,Phạm Văn Đồng - Lê Quang Định 2,150,http://camera.thongtingiaothong.vn/api/snapshot/587ef859b807da0011e33d5b
+58744e97b807da0011e33cb9,POINT(106.689042448998 10.7469851294422),Quận 8,Dương Bá Trạc - Hẻm 219,180,http://camera.thongtingiaothong.vn/api/snapshot/58744e97b807da0011e33cb9
+58c2717ed56e930010a39ac0,POINT(106.656062516536 10.7418073259385),Quận 8,Quốc Lộ 50 - Cầu Nhị Thiên Đường 2,345,http://camera.thongtingiaothong.vn/api/snapshot/58c2717ed56e930010a39ac0
+58afcd9bbd82540010390c41,POINT(106.596699357033 10.6965544326304),Huyện Bình Chánh,Quốc lộ 1 - Nguyễn Hữu Trí 2,15,http://camera.thongtingiaothong.vn/api/snapshot/58afcd9bbd82540010390c41
+63b54a9ebfd3d90017ea7911,POINT(106.828694343567 10.8428107736029),,Nguyễn Xiển - Nguyễn Văn Tăng,,http://camera.thongtingiaothong.vn/api/snapshot/63b54a9ebfd3d90017ea7911
+5bbc7163ca0577001164127f,POINT(106.702550053597 10.6895647333739),,Lê Văn Lương - Cầu Long Kiểng (HCM),195,http://camera.thongtingiaothong.vn/api/snapshot/5bbc7163ca0577001164127f
+6623f3d66f998a001b252890,POINT(106.769835948944 10.8822808688795),,Quốc Lộ 1K - đường số 8,,http://camera.thongtingiaothong.vn/api/snapshot/6623f3d66f998a001b252890
+662a902a1afb9c00172d2bed,POINT(106.59907579422 10.7114030554397),,Quốc Lộ 1 - Hưng Nhơn,,http://camera.thongtingiaothong.vn/api/snapshot/662a902a1afb9c00172d2bed
+662b85481afb9c00172dd0f1,POINT(106.703091859818 10.7687191761474),,Võ Văn Kiệt - Pasteur,,http://camera.thongtingiaothong.vn/api/snapshot/662b85481afb9c00172dd0f1
+6623ef2b6f998a001b252753,POINT(106.587703227997 10.8498285289366),,Phan Văn Hớn - Trần Văn Mười,,http://camera.thongtingiaothong.vn/api/snapshot/6623ef2b6f998a001b252753
+66b1c4e7779f7400186741e4,POINT(106.665455102921 10.8004004325254),,Hoàng Văn Thụ - Phạm Văn Hai,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c4e7779f7400186741e4
+56de42f611f398ec0c48129c,POINT(106.600942611694 10.7170534584198),Huyện Bình Chánh,Võ Văn Kiệt - Quốc Lộ 1,60,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48129c
+587c8661b807da0011e33d43,POINT(106.660519838333 10.7999683420367),Quận Tân Bình,Lê Văn Sỹ - Hoàng Văn Thụ,45,http://camera.thongtingiaothong.vn/api/snapshot/587c8661b807da0011e33d43
+5b632a79fd4edb0019c7dc0f,POINT(106.669510602951 10.7524240581789),,Nguyễn Tri Phương - Trần Hưng Đạo,345,http://camera.thongtingiaothong.vn/api/snapshot/5b632a79fd4edb0019c7dc0f
+662a87a41afb9c00172d24e9,POINT(106.569678783417 10.7617258747396),,Trần Văn Giàu - Tỉnh Lộ 10,,http://camera.thongtingiaothong.vn/api/snapshot/662a87a41afb9c00172d24e9
+5ad0644698d8fc001102e26b,POINT(106.806828975677 10.82640375746),,Lã Xuân Oai - Cầu Tăng Long (1),315,http://camera.thongtingiaothong.vn/api/snapshot/5ad0644698d8fc001102e26b
+662b5b8c1afb9c00172d92ca,POINT(106.617207527161 10.7884439432433),,Bình Long - Lê Thúc Hoạch,,http://camera.thongtingiaothong.vn/api/snapshot/662b5b8c1afb9c00172d92ca
+5d8cd7bb766c880017188952,POINT(106.722747087479 10.8289275670072),,Phạm Văn Đồng - Đường 20 (hướng đi Thủ Đức),255,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd7bb766c880017188952
+58af9a07bd82540010390c3b,POINT(106.703263521194 10.7852927046947),Quận 1,Tôn Đức Thắng - Lê Duẩn,240,http://camera.thongtingiaothong.vn/api/snapshot/58af9a07bd82540010390c3b
+63ae75debfd3d90017e8f082,POINT(106.683892607689 10.7685031082248),,Cao Thắng – Võ Văn Tần 1,,http://camera.thongtingiaothong.vn/api/snapshot/63ae75debfd3d90017e8f082
+6623eb466f998a001b252632,POINT(106.679220199585 10.8536955999934),,Hà Huy Giáp - An Lộc,,http://camera.thongtingiaothong.vn/api/snapshot/6623eb466f998a001b252632
+5a824dc05058170011f6eab2,POINT(106.658180952072 10.8366042431825),,Quang Trung - Lê Văn Thọ (1),120,http://camera.thongtingiaothong.vn/api/snapshot/5a824dc05058170011f6eab2
+5d8cd49f766c880017188944,POINT(106.669499874115 10.7547007899372),,Nguyễn Tri Phương - Nguyễn Trãi,180,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd49f766c880017188944
+662b836d1afb9c00172dcfa0,POINT(106.704819202423 10.7873373247725),,Lê Duẩn - Nguyễn Bỉnh Khiêm,,http://camera.thongtingiaothong.vn/api/snapshot/662b836d1afb9c00172dcfa0
+5a606c078576340017d06624,POINT(106.718916893005 10.8495545656016),,Quốc lộ 13 - Hiệp Bình,15,http://camera.thongtingiaothong.vn/api/snapshot/5a606c078576340017d06624
+5deb576d1dc17d7c5515acf3,POINT(106.668459 10.768198),,Ba Tháng Hai - Lý Thái Tổ,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf3
+5a8254b05058170011f6eac3,POINT(106.712254285812 10.809674419948),,Xô Viết Nghệ Tĩnh - Nguyễn Xí 1,15,http://camera.thongtingiaothong.vn/api/snapshot/5a8254b05058170011f6eac3
+662b50c11afb9c00172d8843,POINT(106.624084711075 10.7517441974476),,An Dương Vương - Đường số 7,,http://camera.thongtingiaothong.vn/api/snapshot/662b50c11afb9c00172d8843
+63ae77bfbfd3d90017e8f18f,POINT(106.717768907547 10.757040746338),,Nguyễn Tất Thành - Cầu Tân Thuận 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae77bfbfd3d90017e8f18f
+6623f51a6f998a001b252900,POINT(106.716363430023 10.8403450366927),,Quốc Lộ 13 - Nguyễn Thị Nhung,,http://camera.thongtingiaothong.vn/api/snapshot/6623f51a6f998a001b252900
+5deb576d1dc17d7c5515ad0a,POINT(106.655729 10.795418),,Hoàng Văn Thụ - Xuân Diệu,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad0a
+58744e3eb807da0011e33cb7,POINT(106.688919067383 10.7444131987789),Quận 8,Dương Bá Trạc - Hẻm 288,30,http://camera.thongtingiaothong.vn/api/snapshot/58744e3eb807da0011e33cb7
+56de42f611f398ec0c481290,POINT(106.673292517662 10.7493356862526),Quận 5,Võ Văn Kiệt - An Bình,120,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481290
+6623e3a26f998a001b252291,POINT(106.684466600418 10.7843863222755),,Lý Chính Thắng - Trần Quốc Thảo,,http://camera.thongtingiaothong.vn/api/snapshot/6623e3a26f998a001b252291
+589b3ceeb3bf7600110283c3,POINT(106.587172150612 10.8837348196645),Huyện Hóc Môn,QL 22 - Nguyễn Văn Bứa 1,315,http://camera.thongtingiaothong.vn/api/snapshot/589b3ceeb3bf7600110283c3
+595dcab53dcfc400106f289d,POINT(106.678490638733 10.861629788009),,Quốc lộ 1 - BQB Trước bến xe Ngã 4 Ga (hướng đi Bình Phước),270,http://camera.thongtingiaothong.vn/api/snapshot/595dcab53dcfc400106f289d
+58ad7291bd82540010390bf9,POINT(106.687197089195 10.8038413260585),Quận Bình Thạnh,Phan Đăng Lưu - Nguyễn Văn Đậu,270,http://camera.thongtingiaothong.vn/api/snapshot/58ad7291bd82540010390bf9
+662a89211afb9c00172d2636,POINT(106.597981452942 10.705952846726),,Quốc Lộ 1 - Dương Đình Cúc,,http://camera.thongtingiaothong.vn/api/snapshot/662a89211afb9c00172d2636
+5deb576d1dc17d7c5515ad05,POINT(106.697491 10.790705),,Điện Biên Phủ - Đinh Tiên Hoàng,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad05
+662b84771afb9c00172dd076,POINT(106.700012683868 10.7790322866967),,Nguyễn Du - Công xã Paris,,http://camera.thongtingiaothong.vn/api/snapshot/662b84771afb9c00172dd076
+6623f0b46f998a001b2527c3,POINT(106.631401777267 10.7704213643614),,Hòa Bình - Lũy Bán Bích,,http://camera.thongtingiaothong.vn/api/snapshot/6623f0b46f998a001b2527c3
+665861d864f11e00173c73a9,POINT(106.723374724388 10.7554702370632),,Huỳnh Tấn Phát - Cầu Tân Thuận 1,,http://camera.thongtingiaothong.vn/api/snapshot/665861d864f11e00173c73a9
+5a607f078576340017d0666f,POINT(106.606779098511 10.8344440453534),,QL1-Phan Văn Hớn (H.Hoc Mon),105,http://camera.thongtingiaothong.vn/api/snapshot/5a607f078576340017d0666f
+5a824ee15058170011f6eab6,POINT(106.67790055275 10.8306083386046),,Nguyễn Oanh - Phan Văn Trị (1),315,http://camera.thongtingiaothong.vn/api/snapshot/5a824ee15058170011f6eab6
+6623ed396f998a001b2526b8,POINT(106.683468818665 10.820344420197),,Nguyễn Thái Sơn - Phạm Ngũ Lão,,http://camera.thongtingiaothong.vn/api/snapshot/6623ed396f998a001b2526b8
+587c8d97b807da0011e33d49,POINT(106.669188737869 10.8001000770077),Quận Phú Nhuận,Hoàng Văn Thụ - Nguyễn Văn Trỗi 2,270,http://camera.thongtingiaothong.vn/api/snapshot/587c8d97b807da0011e33d49
+59414c883dcfc400106f260b,POINT(106.645107865334 10.8018653200436),,Cộng Hòa - Bình Giã,60,http://camera.thongtingiaothong.vn/api/snapshot/59414c883dcfc400106f260b
+56df82d4c062921100c143e0,POINT(106.760866641998 10.8264933293527),Quận 9,Võ Nguyên Giáp - Tây Hòa 2,30,http://camera.thongtingiaothong.vn/api/snapshot/56df82d4c062921100c143e0
+58affc6017139d0010f35cc8,POINT(106.714013814926 10.8262720340397),Quận Thủ Đức,Phạm Văn Đồng - Quốc Lộ 13 (1),120,http://camera.thongtingiaothong.vn/api/snapshot/58affc6017139d0010f35cc8
+587463bab807da0011e33cd3,POINT(106.748399734497 10.8747792130109),Quận Thủ Đức,Quốc lộ 1 - Lê Thị Hoa,,http://camera.thongtingiaothong.vn/api/snapshot/587463bab807da0011e33cd3
+5deb576d1dc17d7c5515ad1c,POINT(106.707260012627 10.7652936908376),,Hoàng Diệu - Nguyễn Tất Thành,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad1c
+56de42f611f398ec0c481287,POINT(106.700146794319 10.7654781410386),Quận 1,Võ Văn Kiệt - Ký Con,225,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481287
+662b5c981afb9c00172d94c0,POINT(106.619310379028 10.7994361321658),,Tân Kỳ Tân Quý - Tân Quý,,http://camera.thongtingiaothong.vn/api/snapshot/662b5c981afb9c00172d94c0
+662a861e1afb9c00172d23ad,POINT(106.718187332153 10.6954843759884),,Nguyễn Hữu Thọ - Phạm Hữu Lầu,,http://camera.thongtingiaothong.vn/api/snapshot/662a861e1afb9c00172d23ad
+662b5a9c1afb9c00172d9240,POINT(106.650145053864 10.7946620093783),,Trường Chinh - Nguyễn Thái Bình,,http://camera.thongtingiaothong.vn/api/snapshot/662b5a9c1afb9c00172d9240
+662a88a01afb9c00172d25d1,POINT(106.514554023743 10.7893819309486),,Trần Văn Giàu - Đường Thanh Niên,,http://camera.thongtingiaothong.vn/api/snapshot/662a88a01afb9c00172d25d1
+662b4e201afb9c00172d85f9,POINT(106.653825044632 10.7537258027461),,Hồng Bàng - Tạ Uyên,,http://camera.thongtingiaothong.vn/api/snapshot/662b4e201afb9c00172d85f9
+63b66051bfd3d90017eaa4a3,POINT(106.695485115051 10.8112288386645),,Nơ Trang Long - Phan Văn Trị,,http://camera.thongtingiaothong.vn/api/snapshot/63b66051bfd3d90017eaa4a3
+62da3e390637a10017d706ff,POINT(106.718230247498 10.8444440496827),,Quốc Lộ 13 - Đinh Thị Thi 1,,http://camera.thongtingiaothong.vn/api/snapshot/62da3e390637a10017d706ff
+5deb576d1dc17d7c5515ad10,POINT(106.689579 10.773652),,Cách Mạng Tháng Tám - Nguyễn Thị Minh Khai,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad10
+56f11ac33ac17b11001c504c,POINT(106.668410897255 10.7996311002478),Quận Phú Nhuận,Nguyễn Văn Trỗi - Hoàng Văn Thụ 1,315,http://camera.thongtingiaothong.vn/api/snapshot/56f11ac33ac17b11001c504c
+66b1c4a2779f74001867418c,POINT(106.664553880692 10.7971175831128),,Lê Văn Sỹ - Phạm Văn Hai,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c4a2779f74001867418c
+587475abb807da0011e33cea,POINT(106.664789915085 10.8091738427151),Quận Tân Bình,Trường Sơn - Cửu Long,0,http://camera.thongtingiaothong.vn/api/snapshot/587475abb807da0011e33cea
+5deb576d1dc17d7c5515ad0e,POINT(106.686639 10.774969),,Cách Mạng Tháng Tám - Nguyễn Đình Chiểu,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad0e
+5deb576d1dc17d7c5515ad11,POINT(106.689658 10.777922),,Nguyễn Đình Chiểu - Trương Định,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad11
+587478d8b807da0011e33cf3,POINT(106.653594374657 10.7928387592472),Quận Tân Bình,Nút giao Bảy Hiền 1 (Cách Mạng Tháng Tám),300,http://camera.thongtingiaothong.vn/api/snapshot/587478d8b807da0011e33cf3
+5deb576d1dc17d7c5515acf8,POINT(106.67782 10.773823),,Ba Tháng Hai - Cao Thắng,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf8
+591c6833a6bfb500119400a3,POINT(106.613377332687 10.890809558636),Huyện Nhà Bè,Đặng Thúc Vịnh - Trịnh Thị Miếng,195,http://camera.thongtingiaothong.vn/api/snapshot/591c6833a6bfb500119400a3
+63ae7938bfd3d90017e8f226,POINT(106.595476269722 10.7470852656437),,Quốc Lộ 1- Công ty Pouyen 3 (Cổng),,http://camera.thongtingiaothong.vn/api/snapshot/63ae7938bfd3d90017e8f226
+63b664edbfd3d90017eaaa24,POINT(106.566883921623 10.6846307310993),,CT Trung Lương - Võ Trần Chí 2,,http://camera.thongtingiaothong.vn/api/snapshot/63b664edbfd3d90017eaaa24
+6623e5776f998a001b252337,POINT(106.678436994553 10.7845127944049),,Trần Quang Diệu - Trường Sa,,http://camera.thongtingiaothong.vn/api/snapshot/6623e5776f998a001b252337
+59ca308302eb490011a0a403,POINT(106.590755581856 10.7672014274613),,QL1 - Tân Tạo Chợ Đệm 1,195,http://camera.thongtingiaothong.vn/api/snapshot/59ca308302eb490011a0a403
+5deb576d1dc17d7c5515acfd,POINT(106.682181358337 10.7793063144528),,Lý Chính Thắng - Nguyễn Thông,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acfd
+56df8159c062921100c143dc,POINT(106.774283051491 10.8490751291612),Quận 9,Nút giao Thủ Đức (Lê Văn Việt),255,http://camera.thongtingiaothong.vn/api/snapshot/56df8159c062921100c143dc
+587ef2e4b807da0011e33d57,POINT(106.672310829163 10.7976866831738),Quận Phú Nhuận,Nguyễn Văn Trỗi - Nguyễn Trọng Tuyển,285,http://camera.thongtingiaothong.vn/api/snapshot/587ef2e4b807da0011e33d57
+6623e6706f998a001b25239b,POINT(106.675046682358 10.7612726484012),,Hùng Vương - Trần Nhân Tôn,,http://camera.thongtingiaothong.vn/api/snapshot/6623e6706f998a001b25239b
+662b86551afb9c00172dd227,POINT(106.697469949722 10.7702052976598),,Trần Hưng Đạo - Calmette,,http://camera.thongtingiaothong.vn/api/snapshot/662b86551afb9c00172dd227
+662a88521afb9c00172d2592,POINT(106.607261896133 10.7281852870275),,Kinh Dương Vương - Hồ Học Lãm,,http://camera.thongtingiaothong.vn/api/snapshot/662a88521afb9c00172d2592
+649da77ea6068200171a6dd4,POINT(106.70676112175 10.775301268578),,Tôn Đức Thắng - Công trường Mê Linh,,http://camera.thongtingiaothong.vn/api/snapshot/649da77ea6068200171a6dd4
+63b3c59fbfd3d90017e9ace8,POINT(106.577596664429 10.8125250596398),,Vĩnh Lộc - Quách Điêu,,http://camera.thongtingiaothong.vn/api/snapshot/63b3c59fbfd3d90017e9ace8
+58b5510817139d0010f35d4e,POINT(106.71435713768 10.8254711543978),Quận Thủ Đức,Phạm Văn Đồng - Quốc Lộ 13 (2),285,http://camera.thongtingiaothong.vn/api/snapshot/58b5510817139d0010f35d4e
+5a824c905058170011f6eab0,POINT(106.62178337574 10.7736939654481),,Nút giao Bốn Xã 2 (Hòa Bình),285,http://camera.thongtingiaothong.vn/api/snapshot/5a824c905058170011f6eab0
+5deb576d1dc17d7c5515ad16,POINT(106.695957 10.780518),,Nguyễn Thị Minh Khai - Pasteur,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad16
+63ae7c73bfd3d90017e8f3ed,POINT(106.658003926277 10.7708113380158),,Lý Thường Kiệt - Tô Hiến Thành 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7c73bfd3d90017e8f3ed
+586e1d4ef9fab7001111b0a2,POINT(106.651110649109 10.8016071209638),Quận Tân Bình,Cộng Hòa - Đường C 18,270,http://camera.thongtingiaothong.vn/api/snapshot/586e1d4ef9fab7001111b0a2
+63195512c9eae60017a1c279,POINT(106.688103715542 10.7663399395947),,Nguyễn Trãi - Cống Quỳnh 1,30,http://camera.thongtingiaothong.vn/api/snapshot/63195512c9eae60017a1c279
+6623df636f998a001b251e92,POINT(106.69704079628 10.7839015119534),,Hai Bà Trưng - Trần Cao Vân,,http://camera.thongtingiaothong.vn/api/snapshot/6623df636f998a001b251e92
+5d8cdc9d766c880017188970,POINT(106.647881269455 10.7747690150491),,Lạc Long Quân - Âu Cơ,75,http://camera.thongtingiaothong.vn/api/snapshot/5d8cdc9d766c880017188970
+5a8254f25058170011f6eac5,POINT(106.712415218353 10.8102803807443),,Xô Viết Nghệ Tĩnh - Nguyễn Xí 2,195,http://camera.thongtingiaothong.vn/api/snapshot/5a8254f25058170011f6eac5
+63ae7c53bfd3d90017e8f3d8,POINT(106.658336520195 10.7704951431996),,Lý Thường Kiệt - Tô Hiến Thành 1,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7c53bfd3d90017e8f3d8
+5deb576d1dc17d7c5515ad20,POINT(106.666241 10.755881),,Hồng Bàng - Ngô Quyền 2,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad20
+5874796db807da0011e33cf7,POINT(106.630790233612 10.8199228965258),Quận Tân Bình,Trường Chinh - Tây Thạnh 1,345,http://camera.thongtingiaothong.vn/api/snapshot/5874796db807da0011e33cf7
+5deb576d1dc17d7c5515acfa,POINT(106.681336 10.777664),,Nút giao Công Trường Dân Chủ,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acfa
+58746536b807da0011e33cdc,POINT(106.723519563675 10.8659497751896),Quận Thủ Đức,Cầu vượt Bình Phước 1,180,http://camera.thongtingiaothong.vn/api/snapshot/58746536b807da0011e33cdc
+662b4f7e1afb9c00172d872e,POINT(106.635103225708 10.7480971664479),,Hậu Giang - Nguyễn Văn Luông,,http://camera.thongtingiaothong.vn/api/snapshot/662b4f7e1afb9c00172d872e
+662b59291afb9c00172d912b,POINT(106.662569046021 10.7987511081718),,Lê Văn Sỹ - Nguyễn Trọng Tuyển,,http://camera.thongtingiaothong.vn/api/snapshot/662b59291afb9c00172d912b
+5a6060a88576340017d0660d,POINT(106.689493060112 10.8261245037402),,Nguyễn Thái Sơn - Phan Văn Trị  1,315,http://camera.thongtingiaothong.vn/api/snapshot/5a6060a88576340017d0660d
+63b65f33bfd3d90017eaa405,POINT(106.716953516006 10.7887970063747),,Nguyễn Hữu Cảnh - Ngô Tất Tố 3 (Nhánh chính cầu Thủ Thiêm 1),,http://camera.thongtingiaothong.vn/api/snapshot/63b65f33bfd3d90017eaa405
+5deb576d1dc17d7c5515ad1e,POINT(106.702639 10.770674),,Pasteur - Hàm Nghi,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad1e
+63ae7759bfd3d90017e8f162,POINT(106.706036925316 10.7675070857977),,Nguyễn Tất Thành - Cầu Khánh Hội,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7759bfd3d90017e8f162
+63ae7709bfd3d90017e8f135,POINT(106.703810691834 10.7632541910898),,Hoàng Diệu - Đoàn Văn Bơ 1,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7709bfd3d90017e8f135
+662b55111afb9c00172d8e2e,POINT(106.640725135803 10.8446442571047),,Quang Trung - Phạm Văn Chiêu,,http://camera.thongtingiaothong.vn/api/snapshot/662b55111afb9c00172d8e2e
+649da419a6068200171a6c90,POINT(106.665605306625 10.759206770879),,Nguyễn Chí Thanh - Ngô Quyền,,http://camera.thongtingiaothong.vn/api/snapshot/649da419a6068200171a6c90
+58afccadbd82540010390c3f,POINT(106.596463322639 10.6966335007055),Huyện Bình Chánh,Quốc lộ 1 - Nguyễn Hữu Trí 1,270,http://camera.thongtingiaothong.vn/api/snapshot/58afccadbd82540010390c3f
+5deb576d1dc17d7c5515acf7,POINT(106.68172 10.765059),,Nút giao Ngã sáu Cộng Hòa,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf7
+5d8cd767766c880017188950,POINT(106.702968478203 10.8230474266509),,Phạm Văn Đồng - Nguyễn Xí (hướng đi Sân bay),75,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd767766c880017188950
+5874656eb807da0011e33cde,POINT(106.724211573601 10.8647433460363),Quận Thủ Đức,Cầu vượt Bình Phước 2,330,http://camera.thongtingiaothong.vn/api/snapshot/5874656eb807da0011e33cde
+6623e3566f998a001b25226d,POINT(106.680936813354 10.786135848679),,Lê Văn Sỹ - Trường Sa,,http://camera.thongtingiaothong.vn/api/snapshot/6623e3566f998a001b25226d
+5abbb6d698d8fc001102dfc8,POINT(106.720451116562 10.7314425344033),,Nguyễn Văn Linh - Nguyễn Lương Bằng (1),,http://camera.thongtingiaothong.vn/api/snapshot/5abbb6d698d8fc001102dfc8
+5d8cdd26766c880017188974,POINT(106.652623414993 10.7688351149688),,Nút giao Lê Đại Hành 2 (Lê Đại Hành),315,http://camera.thongtingiaothong.vn/api/snapshot/5d8cdd26766c880017188974
+56de42f611f398ec0c481296,POINT(106.650842428207 10.7442498171975),Quận 6,Võ Văn Kiệt - Cao Văn Lầu,75,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481296
+5deb576d1dc17d7c5515ad03,POINT(106.692835092545 10.7814721788992),,Nam Kỳ Khởi Nghĩa - Nguyễn Đình Chiểu,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad03
+63ae777cbfd3d90017e8f177,POINT(106.706455349922 10.7667745592657),,Nguyễn Tất Thành - Đoàn Như Hài,,http://camera.thongtingiaothong.vn/api/snapshot/63ae777cbfd3d90017e8f177
+631828cac9eae60017a19f50,POINT(106.703531742096 10.7887074232314),,Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 1,45,http://camera.thongtingiaothong.vn/api/snapshot/631828cac9eae60017a19f50
+63b3c2fbbfd3d90017e9abbf,POINT(106.724379211664 10.7980089972696),,Cầu Sài Gòn 1 (dạ cầu Bình Thạnh),240,http://camera.thongtingiaothong.vn/api/snapshot/63b3c2fbbfd3d90017e9abbf
+58d7c2e6c1e33c00112b321e,POINT(106.625425815582 10.8269833398213),Quận 12,Trường Chinh - Phan Văn Hớn 1 (Q12-HM),315,http://camera.thongtingiaothong.vn/api/snapshot/58d7c2e6c1e33c00112b321e
+63b54ad1bfd3d90017ea7974,POINT(106.792543530464 10.8045368770814),,Võ Chí Công - Liên Phường 1,,http://camera.thongtingiaothong.vn/api/snapshot/63b54ad1bfd3d90017ea7974
+662b5b481afb9c00172d92a8,POINT(106.641937494278 10.7990461956223),,Trường Chinh - Trương Công Định,,http://camera.thongtingiaothong.vn/api/snapshot/662b5b481afb9c00172d92a8
+56de42f611f398ec0c48129e,POINT(106.7572618 10.7785053),Quận 2,Đồng Văn Cống - Phan Văn Đáng,135,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48129e
+5d8cd372766c880017188940,POINT(106.643267869949 10.7550275416962),,Nút giao Cây Gõ 2 (Minh Phụng),195,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd372766c880017188940
+5ad06a0d98d8fc001102e27b,POINT(106.579318642616 10.8135578170586),,Vĩnh Lộc - Nguyễn Thị Tú 2,255,http://camera.thongtingiaothong.vn/api/snapshot/5ad06a0d98d8fc001102e27b
+5a60839c8576340017d0667c,POINT(106.591436862946 10.769962881176),,QL1 - Hương Lộ 2 (2),195,http://camera.thongtingiaothong.vn/api/snapshot/5a60839c8576340017d0667c
+63b65f64bfd3d90017eaa41f,POINT(106.711615920067 10.8068184838962),,Xô Viết Nghệ Tĩnh - Đường D5,,http://camera.thongtingiaothong.vn/api/snapshot/63b65f64bfd3d90017eaa41f
+58746371b807da0011e33cd1,POINT(106.775951385498 10.8696796650458),Quận Thủ Đức,Quốc lộ 1 - Đường 14,285,http://camera.thongtingiaothong.vn/api/snapshot/58746371b807da0011e33cd1
+63bd1e95bfd3d90017ec3cd5,POINT(106.731684207916 10.7131108376067),,Nguyễn Lương Bằng - Hoàng Quốc Việt,,http://camera.thongtingiaothong.vn/api/snapshot/63bd1e95bfd3d90017ec3cd5
+63ae7cd3bfd3d90017e8f408,POINT(106.64261341095 10.7667007795163),,Lạc Long Quân - Ông Ích Khiêm,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7cd3bfd3d90017e8f408
+5d8cd70e766c88001718894e,POINT(106.703445911407 10.8228313977916),,Phạm Văn Đồng - Nguyễn Xí (hướng đi Thủ Đức),270,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd70e766c88001718894e
+58b555ac17139d0010f35d59,POINT(106.656072735786 10.7443815765443),Quận 8,Tùng Thiện Vương - Cầu Nhị Thiên Đường,315,http://camera.thongtingiaothong.vn/api/snapshot/58b555ac17139d0010f35d59
+662a8f701afb9c00172d2b5e,POINT(106.703596115112 10.739928078758),,Nguyễn Thị Thập - Lê Văn Lương,,http://camera.thongtingiaothong.vn/api/snapshot/662a8f701afb9c00172d2b5e
+63b55020bfd3d90017ea7cb7,POINT(106.773376464844 10.7680077324028),,Nút giao Mỹ Thủy (6),,http://camera.thongtingiaothong.vn/api/snapshot/63b55020bfd3d90017ea7cb7
+6623eec96f998a001b25273b,POINT(106.664371490479 10.8346442594662),,Quang Trung - Thống Nhất,,http://camera.thongtingiaothong.vn/api/snapshot/6623eec96f998a001b25273b
+662b4d781afb9c00172d8571,POINT(106.677567958832 10.7589116443632),,An Dương Vương - Lê Hồng Phong,,http://camera.thongtingiaothong.vn/api/snapshot/662b4d781afb9c00172d8571
+5a606a958576340017d06621,POINT(106.709464788437 10.8028664980496),,Đinh Bộ Lĩnh - Bạch Đằng 3,45,http://camera.thongtingiaothong.vn/api/snapshot/5a606a958576340017d06621
+662a8c381afb9c00172d28b6,POINT(106.689584255218 10.7388529049553),,Dương Bá Trạc - đường 9A,,http://camera.thongtingiaothong.vn/api/snapshot/662a8c381afb9c00172d28b6
+63b6617ebfd3d90017eaa50b,POINT(106.713917255402 10.7592436616732),,Nguyễn Tất Thành - Cảng SG (Q7-Q4),,http://camera.thongtingiaothong.vn/api/snapshot/63b6617ebfd3d90017eaa50b
+56de42f611f398ec0c48129d,POINT(106.600669026375 10.7223980522437),Huyện Bình Chánh,Quốc lộ 1 - Trần Đại Nghĩa,180,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48129d
+56de42f611f398ec0c481292,POINT(106.645520925522 10.7413616378753),Quận 6,Võ Văn Kiệt - Phạm Phú Thứ,75,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481292
+5deb576d1dc17d7c5515acff,POINT(106.687554 10.791464),,Hai Bà Trưng - Lý Chính Thắng,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acff
+662b58791afb9c00172d9107,POINT(106.664301753044 10.8005216285264),,255 Hoàng Văn Thụ,,http://camera.thongtingiaothong.vn/api/snapshot/662b58791afb9c00172d9107
+662b811d1afb9c00172dcc1d,POINT(106.692867279053 10.7650143803183),,Trần Hưng Đạo - Nguyễn Cư Trinh,,http://camera.thongtingiaothong.vn/api/snapshot/662b811d1afb9c00172dcc1d
+662a8eb41afb9c00172d2aba,POINT(106.721824407578 10.7379990877391),,Nguyễn Văn Linh - Nguyễn Thị Thập 2,,http://camera.thongtingiaothong.vn/api/snapshot/662a8eb41afb9c00172d2aba
+5deb576d1dc17d7c5515acfb,POINT(106.684262752533 10.7801863634439),,Võ Thị Sáu - Bà Huyện Thanh Quan,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acfb
+56de42f611f398ec0c48127d,POINT(106.752707362175 10.8049847689326),Quận 2,Mai Chí Thọ - Võ Nguyên Giáp (Cát Lái cầu A),45,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48127d
+56de42f611f398ec0c48128d,POINT(106.660031676292 10.7505847415039),Quận 5,Hải Thượng Lãn Ông - Cầu Chà Và,195,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48128d
+6623e7076f998a001b2523ea,POINT(106.671495437622 10.7677758540786),,Lý Thái Tổ - Sư Vạn Hạnh,,http://camera.thongtingiaothong.vn/api/snapshot/6623e7076f998a001b2523ea
+59ca2cac02eb490011a0a3e9,POINT(106.611746549606 10.8395020450536),,Cầu vượt An Sương 2,45,http://camera.thongtingiaothong.vn/api/snapshot/59ca2cac02eb490011a0a3e9
+5aab1f852d266a0017e5afd4,POINT(106.754032373428 10.7496677141024),,Võ Chí Công - Cầu Phú Mỹ,240,http://camera.thongtingiaothong.vn/api/snapshot/5aab1f852d266a0017e5afd4
+5d8cda2e766c88001718895e,POINT(106.74354493618 10.840819218446),,Phạm Văn Đồng - Kha Vạn Cân (hướng đi Quốc lộ 1),15,http://camera.thongtingiaothong.vn/api/snapshot/5d8cda2e766c88001718895e
+586e25e1f9fab7001111b0ae,POINT(106.635918617249 10.8037728247342),Quận Tân Bình,Trường Chinh - Tân Kỳ Tân Quý,285,http://camera.thongtingiaothong.vn/api/snapshot/586e25e1f9fab7001111b0ae
+63ae76ddbfd3d90017e8f11b,POINT(106.698489189148 10.7596389198989),,Khánh Hội -  Hoàng Diệu,,http://camera.thongtingiaothong.vn/api/snapshot/63ae76ddbfd3d90017e8f11b
+63b66035bfd3d90017eaa48e,POINT(106.695023775101 10.8053483512381),,Nơ Trang Long - Nguyễn Huy Lượng (Bệnh viện Ung Bướu),,http://camera.thongtingiaothong.vn/api/snapshot/63b66035bfd3d90017eaa48e
+585b284ac3f96200127dc500,POINT(106.727795004845 10.7545321437295),Quận 7,Huỳnh Tấn Phát - Lưu Trọng Lư 1,255,http://camera.thongtingiaothong.vn/api/snapshot/585b284ac3f96200127dc500
+56de42f611f398ec0c481295,POINT(106.659994125366 10.7490827124077),,Võ Văn Kiệt - Cầu Chà Và 1 (dạ cầu),,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481295
+5deb576d1dc17d7c5515ad04,POINT(106.690008044243 10.7860304558102),,Võ Thị Sáu - Pasteur,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad04
+5a8278f35058170011f6eaed,POINT(106.677117347717 10.7284488196731),,Nguyễn Văn Linh - Phạm Hùng 1,105,http://camera.thongtingiaothong.vn/api/snapshot/5a8278f35058170011f6eaed
+662b830e1afb9c00172dcf50,POINT(106.688017845154 10.7743421575788),,Cách Mạng Tháng Tám - Võ Văn Tần,,http://camera.thongtingiaothong.vn/api/snapshot/662b830e1afb9c00172dcf50
+5a6084208576340017d0667e,POINT(106.590557098389 10.7661000008843),,QL1 - Tân Tạo Chợ Đệm 2,15,http://camera.thongtingiaothong.vn/api/snapshot/5a6084208576340017d0667e
+63b54aedbfd3d90017ea79c3,POINT(106.791937351227 10.8049478837466),,Võ Chí Công - Liên Phường 2,,http://camera.thongtingiaothong.vn/api/snapshot/63b54aedbfd3d90017ea79c3
+586e20a0f9fab7001111b0a7,POINT(106.6783618927 10.8062968247449),,Nguyễn Kiệm - Hồ Văn Huê,165,http://camera.thongtingiaothong.vn/api/snapshot/586e20a0f9fab7001111b0a7
+6623edd26f998a001b2526f7,POINT(106.679542064667 10.8267936584446),,Vòng xoay Gò Vấp (2),,http://camera.thongtingiaothong.vn/api/snapshot/6623edd26f998a001b2526f7
+5a8255a55058170011f6eac7,POINT(106.711433529854 10.8168141411482),,BX Miền Đông - Đinh Bộ Lĩnh 1,60,http://camera.thongtingiaothong.vn/api/snapshot/5a8255a55058170011f6eac7
+56de42f611f398ec0c481294,POINT(106.702040433884 10.7675334356397),Quận 1,Đường hầm - Đầu Quận 1,45,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481294
+56de42f611f398ec0c481280,POINT(106.751446723938 10.792627978172),Quận 2,Mai Chí Thọ - Lương Định Của 2,180,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c481280
+587ed91db807da0011e33d4e,POINT(106.697963476181 10.8024818353159),Quận Bình Thạnh,Phan Đăng Lưu - Đinh Tiên Hoàng 2,270,http://camera.thongtingiaothong.vn/api/snapshot/587ed91db807da0011e33d4e
+63b54dcbbfd3d90017ea7ba8,POINT(106.793847084045 10.865338658848),,Quốc Lộ 1 - Cổng ĐH Quốc gia TPHCM,,http://camera.thongtingiaothong.vn/api/snapshot/63b54dcbbfd3d90017ea7ba8
+56de42f611f398ec0c48128a,POINT(106.692545413971 10.7587798913611),Quận 1,Võ Văn Kiệt - Trần Đình Xu 2,60,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48128a
+6623ed9b6f998a001b2526cd,POINT(106.680099964142 10.8260981590362),,Vòng xoay Gò Vấp (1),,http://camera.thongtingiaothong.vn/api/snapshot/6623ed9b6f998a001b2526cd
+58b5752e17139d0010f35d5f,POINT(106.695173978806 10.7794696770349),Quận 1,Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 2,315,http://camera.thongtingiaothong.vn/api/snapshot/58b5752e17139d0010f35d5f
+58175c81edeb6c0012a2d5c2,POINT(106.727376580238 10.7757228548636),Quận 2,Mai Chí Thọ - Trần Não 2,45,http://camera.thongtingiaothong.vn/api/snapshot/58175c81edeb6c0012a2d5c2
+631812e6c9eae60017a19567,POINT(106.723358631134 10.7980818909152),,Cầu Sài Gòn 11 (Bình Thạnh),270,http://camera.thongtingiaothong.vn/api/snapshot/631812e6c9eae60017a19567
+6623e7b76f998a001b25242d,POINT(106.709260940552 10.8083518403949),,Đinh Bộ Lĩnh - Bùi Đình Túy,,http://camera.thongtingiaothong.vn/api/snapshot/6623e7b76f998a001b25242d
+5ad068b198d8fc001102e278,POINT(106.654586791992 10.6524259645754),,Quốc lộ 50 - Cầu Ông Thìn (1),150,http://camera.thongtingiaothong.vn/api/snapshot/5ad068b198d8fc001102e278
+63ae75a3bfd3d90017e8f051,POINT(106.685453653336 10.767891793263),,Cống Quỳnh - Phạm Viết Chánh,,http://camera.thongtingiaothong.vn/api/snapshot/63ae75a3bfd3d90017e8f051
+5abbb77298d8fc001102dfce,POINT(106.720327734947 10.7315637581429),,Nguyễn Văn Linh - Nguyễn Lương Bằng (2),,http://camera.thongtingiaothong.vn/api/snapshot/5abbb77298d8fc001102dfce
+63bd1f48bfd3d90017ec3d19,POINT(106.730353832245 10.7375247437985),,Huỳnh Tấn Phát - Nguyễn Thị Thập,,http://camera.thongtingiaothong.vn/api/snapshot/63bd1f48bfd3d90017ec3d19
+58aff2c6bd82540010390c55,POINT(106.569807529449 10.6647884855642),Huyện Bình Chánh,Quốc lộ 1 - Đinh Đức Thiện 1,150,http://camera.thongtingiaothong.vn/api/snapshot/58aff2c6bd82540010390c55
+5d8cd886766c880017188956,POINT(106.732848286629 10.8372522994913),,Phạm Văn Đồng - Hiệp Bình (hướng đi Thủ Đức),240,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd886766c880017188956
+5deb576d1dc17d7c5515ad18,POINT(106.699614 10.781431),,Hai Bà Trưng - Lê Duẩn,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad18
+66b1c1bf779f740018673ef2,POINT(106.674488782883 10.7577416756903),,An Dương Vương - Trần Phú,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c1bf779f740018673ef2
+56de42f611f398ec0c4812a0,POINT(106.783590316772 10.7627851568961),Quận 2,Nguyễn Thị Định - Đường A,300,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c4812a0
+6623efc26f998a001b25277f,POINT(106.615512371063 10.8675723883698),,Tô Ký - Nguyễn Ảnh Thủ,,http://camera.thongtingiaothong.vn/api/snapshot/6623efc26f998a001b25277f
+662b50841afb9c00172d880d,POINT(106.660562753677 10.7466952613032),,Tùng Thiện Vương - Xóm Củi,,http://camera.thongtingiaothong.vn/api/snapshot/662b50841afb9c00172d880d
+58abc0cbbd82540010390ba6,POINT(106.724311485887 10.7982289959934),Quận Bình Thạnh,Cầu Sài Gòn 3 (Dạ cầu Bình Thạnh),0,http://camera.thongtingiaothong.vn/api/snapshot/58abc0cbbd82540010390ba6
+5deb576d1dc17d7c5515ad07,POINT(106.672665 10.797381),,Nguyễn Văn Trỗi - Trương Quốc Dung,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad07
+5d8cdc1d766c88001718896c,POINT(106.664478778839 10.8076721060064),,Trường Sơn - Hậu Giang,15,http://camera.thongtingiaothong.vn/api/snapshot/5d8cdc1d766c88001718896c
+5a606c758576340017d06626,POINT(106.712779998779 10.8142322689639),,BX Miền Đông - Quốc Lộ 13 (1),90,http://camera.thongtingiaothong.vn/api/snapshot/5a606c758576340017d06626
+63b66008bfd3d90017eaa476,POINT(106.721674203873 10.8036621687159),,Ung Văn Khiêm - Nguyễn Văn Thương (D1),,http://camera.thongtingiaothong.vn/api/snapshot/63b66008bfd3d90017eaa476
+59ca2cf302eb490011a0a3eb,POINT(106.615458726883 10.8427001319976),,Cầu vượt An Sương 3,225,http://camera.thongtingiaothong.vn/api/snapshot/59ca2cf302eb490011a0a3eb
+5a82628e5058170011f6eadb,POINT(106.655665040016 10.7199365991593),,Nguyễn Văn Linh - Quốc lộ 50 (1),75,http://camera.thongtingiaothong.vn/api/snapshot/5a82628e5058170011f6eadb
+5d8cd653766c88001718894c,POINT(106.75500869751 10.8509770648006),,Kha Vạn Cân - Võ Văn Ngân,345,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd653766c88001718894c
+662b4de41afb9c00172d85c5,POINT(106.658996343613 10.7509852813336),,Hải Thượng Lãn Ông - Châu Văn Liêm,,http://camera.thongtingiaothong.vn/api/snapshot/662b4de41afb9c00172d85c5
+6623ee176f998a001b25270c,POINT(106.6819024086 10.829417573494),,Phan Văn Trị - Lê Đức Thọ,,http://camera.thongtingiaothong.vn/api/snapshot/6623ee176f998a001b25270c
+58746314b807da0011e33cce,POINT(106.765040159225 10.8733304866588),Quận Thủ Đức,Quốc lộ 1 - Cầu vượt Linh Xuân,105,http://camera.thongtingiaothong.vn/api/snapshot/58746314b807da0011e33cce
+595f8d233dcfc400106f28f0,POINT(106.632506847382 10.8528104982269),,Quốc lộ 1 - Quang Trung 1 (hướng đi Bình Phước),,http://camera.thongtingiaothong.vn/api/snapshot/595f8d233dcfc400106f28f0
+59d34ce302eb490011a0a616,POINT(106.7762196064 10.8104489957249),,Đỗ Xuân Hợp - Cầu Cống Đập.,165,http://camera.thongtingiaothong.vn/api/snapshot/59d34ce302eb490011a0a616
+662a8e641afb9c00172d2a7e,POINT(106.721234321594 10.7379358419233),,Nguyễn Văn Linh - Nguyễn Thị Thập 1,,http://camera.thongtingiaothong.vn/api/snapshot/662a8e641afb9c00172d2a7e
+63ae7c12bfd3d90017e8f3c0,POINT(106.656598448753 10.7621422099615),,Ba Tháng Hai - Lê Đại Hành 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7c12bfd3d90017e8f3c0
+662b82da1afb9c00172dce94,POINT(106.690120697021 10.7893713917772),,Hai Bà Trưng - Nguyễn Hữu Cầu,,http://camera.thongtingiaothong.vn/api/snapshot/662b82da1afb9c00172dce94
+5d8cd2a3766c88001718893c,POINT(106.642913818359 10.7544425503934),,Nút giao Cây Gõ 1 (trên cầu),255,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd2a3766c88001718893c
+662b4e8e1afb9c00172d865c,POINT(106.661485433578 10.7584267930315),,Lý Thường Kiệt - Nguyễn Chí Thanh,,http://camera.thongtingiaothong.vn/api/snapshot/662b4e8e1afb9c00172d865c
+662b7f9f1afb9c00172dca50,POINT(106.701471805573 10.7904674636287),,Nguyễn Đình Chiểu - Nguyễn Bỉnh Khiêm,,http://camera.thongtingiaothong.vn/api/snapshot/662b7f9f1afb9c00172dca50
+58747923b807da0011e33cf5,POINT(106.653615832329 10.7931970867358),Quận Tân Bình,Nút giao Bảy Hiền 2 (Hoàng Văn Thụ),210,http://camera.thongtingiaothong.vn/api/snapshot/58747923b807da0011e33cf5
+63ae7af4bfd3d90017e8f32c,POINT(106.659564971924 10.7636125538021),,Ba Tháng Hai - Lý Thường Kiệt 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7af4bfd3d90017e8f32c
+595d92013dcfc400106f2877,POINT(106.715140342712 10.8607025631008),,Quốc Lộ 1A - Cầu Bình Phước,60,http://camera.thongtingiaothong.vn/api/snapshot/595d92013dcfc400106f2877
+662b80721afb9c00172dcb28,POINT(106.69774889946 10.788633648858),,Nguyễn Văn Thủ - Trần Doãn Khanh,,http://camera.thongtingiaothong.vn/api/snapshot/662b80721afb9c00172dcb28
+586e1f18f9fab7001111b0a5,POINT(106.634953022003 10.8070661399436),Quận Tân Bình,Cộng Hòa - Trường Chinh,345,http://camera.thongtingiaothong.vn/api/snapshot/586e1f18f9fab7001111b0a5
+63b65f8dbfd3d90017eaa434,POINT(106.707404851913 10.7927439077816),,Xô Viết Nghệ Tĩnh - Phan Văn Hân (Cầu Thị Nghè),,http://camera.thongtingiaothong.vn/api/snapshot/63b65f8dbfd3d90017eaa434
+5d9de3c2766c880017188cb3,POINT(106.754863858223 10.7929019935409),,Cao tốc LTDG - Cầu Bà Dạt 3,270,http://camera.thongtingiaothong.vn/api/snapshot/5d9de3c2766c880017188cb3
+63ae7cfcbfd3d90017e8f422,POINT(106.660680770874 10.7890446772791),,Cách Mạng Tháng Tám – Phạm Văn Hai,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7cfcbfd3d90017e8f422
+5b0e1faacddcc80011ceb449,POINT(106.711969971657 10.8012804197692),,Nút giao Hàng Xanh 8 (HX-VT),60,http://camera.thongtingiaothong.vn/api/snapshot/5b0e1faacddcc80011ceb449
+63b65fa9bfd3d90017eaa449,POINT(106.709818840027 10.7953154258079),,Xô Viết Nghệ Tĩnh - Nguyễn Văn Lạc,,http://camera.thongtingiaothong.vn/api/snapshot/63b65fa9bfd3d90017eaa449
+6623e7f06f998a001b25244a,POINT(106.709175109863 10.8105965337175),,Đinh Bộ Lĩnh - Chu Văn An,,http://camera.thongtingiaothong.vn/api/snapshot/6623e7f06f998a001b25244a
+6623e5066f998a001b252317,POINT(106.687191724777 10.7712645500069),,Nguyễn Thị Minh Khai - Tôn Thất Tùng,,http://camera.thongtingiaothong.vn/api/snapshot/6623e5066f998a001b252317
+662b5c141afb9c00172d93d7,POINT(106.613742113113 10.7965800987319),,Tân Kỳ Tân Quý - Bình Long,,http://camera.thongtingiaothong.vn/api/snapshot/662b5c141afb9c00172d93d7
+66b1c158779f740018673eb4,POINT(106.676441431046 10.7622528812529),,Hùng Vương - Lê Hồng Phong,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c158779f740018673eb4
+56df8381c062921100c143e2,POINT(106.700946092606 10.740497286869),Quận 7,Nguyễn Hữu Thọ - Nguyễn Thị Thập 1,195,http://camera.thongtingiaothong.vn/api/snapshot/56df8381c062921100c143e2
+5d8cd1f9766c880017188938,POINT(106.669569611549 10.7535782368426),,Nguyễn Tri Phương - Trần Phú,195,http://camera.thongtingiaothong.vn/api/snapshot/5d8cd1f9766c880017188938
+6623e61d6f998a001b252377,POINT(106.678587198257 10.7794538677567),,Cách Mạng Tháng Tám - Rạch Bùng Binh,,http://camera.thongtingiaothong.vn/api/snapshot/6623e61d6f998a001b252377
+595da2dd3dcfc400106f2885,POINT(106.698709130287 10.8601177777294),,Quốc lộ 1 - Đường 15 (2),270,http://camera.thongtingiaothong.vn/api/snapshot/595da2dd3dcfc400106f2885
+6623f1996f998a001b252805,POINT(106.756038665771 10.809194919668),,Mai Chí Thọ - Xa Lộ Hà Nội (3),,http://camera.thongtingiaothong.vn/api/snapshot/6623f1996f998a001b252805
+5deb576d1dc17d7c5515acf5,POINT(106.674596 10.767428),,Nút giao Ngã bảy Lý Thái Tổ,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acf5
+631955e7c9eae60017a1c30a,POINT(106.677144169807 10.7802232516687),,Cách Mạng Tháng Tám – Hòa Hưng,300,http://camera.thongtingiaothong.vn/api/snapshot/631955e7c9eae60017a1c30a
+5a6060e08576340017d0660f,POINT(106.689149737358 10.8262720340397),,Nguyễn Thái Sơn - Phan Văn Trị 2,,http://camera.thongtingiaothong.vn/api/snapshot/5a6060e08576340017d0660f
+63ae7a26bfd3d90017e8f29a,POINT(106.672922372818 10.7711380723106),,Ba Tháng Hai - Lê Hồng Phong 2,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7a26bfd3d90017e8f29a
+63b548c3bfd3d90017ea77c0,POINT(106.806946992874 10.792733368728),,Nguyễn Duy Trinh - Nguyễn Thị Tư,,http://camera.thongtingiaothong.vn/api/snapshot/63b548c3bfd3d90017ea77c0
+662a8c931afb9c00172d2901,POINT(106.736941337585 10.7143336880567),,Huỳnh Tấn Phát - Hoàng Quốc Việt,,http://camera.thongtingiaothong.vn/api/snapshot/662a8c931afb9c00172d2901
+63195556c9eae60017a1c2ba,POINT(106.688015724794 10.7668302628021),,Nguyễn Trãi - Cống Quỳnh 2,120,http://camera.thongtingiaothong.vn/api/snapshot/63195556c9eae60017a1c2ba
+58df4adedc195800111e04b4,POINT(106.666592359543 10.8049689609963),Quận Tân Bình,Phổ Quang - Huỳnh Lan Khanh,225,http://camera.thongtingiaothong.vn/api/snapshot/58df4adedc195800111e04b4
+59ca301902eb490011a0a400,POINT(106.591292023659 10.7702369171868),,QL1 - Hương Lộ 2 (1),15,http://camera.thongtingiaothong.vn/api/snapshot/59ca301902eb490011a0a400
+584e738361cfea0012cf6951,POINT(106.600910425186 10.8161291568165),Quận Bình Tân,Quốc lộ 1 - Nguyễn Thị Tú,30,http://camera.thongtingiaothong.vn/api/snapshot/584e738361cfea0012cf6951
+583f958161cfea0012cf68f5,POINT(106.779872775078 10.7660209509751),Quận 2,Nguyễn Thị Định - Đường C,300,http://camera.thongtingiaothong.vn/api/snapshot/583f958161cfea0012cf68f5
+5a8253615058170011f6eabf,POINT(106.710022687912 10.8030720025958),,Đinh Bộ Lĩnh - Bạch Đằng 1,,http://camera.thongtingiaothong.vn/api/snapshot/5a8253615058170011f6eabf
+5deb576d1dc17d7c5515ad0f,POINT(106.691731 10.776014),,Nguyễn Thị Minh Khai - Trương Định,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad0f
+662b51761afb9c00172d88ef,POINT(106.610062122345 10.8029560769717),,Hương Lộ 3 - Đường kênh 19/5,,http://camera.thongtingiaothong.vn/api/snapshot/662b51761afb9c00172d88ef
+66b1c370779f7400186740b3,POINT(106.663513183594 10.7763868520664),,Thành Thái - Tô Hiến Thành,,http://camera.thongtingiaothong.vn/api/snapshot/66b1c370779f7400186740b3
+6623ec376f998a001b252671,POINT(106.635167598724 10.8474892954581),,Tô Ký - Nguyễn Văn Quá,,http://camera.thongtingiaothong.vn/api/snapshot/6623ec376f998a001b252671
+58b5528e17139d0010f35d52,POINT(106.807773113251 10.8719449708741),Quận 9,Xa Lộ Hà Nội - Đường D400,30,http://camera.thongtingiaothong.vn/api/snapshot/58b5528e17139d0010f35d52
+5deb576d1dc17d7c5515ad22,POINT(106.669124 10.76009),,Nút giao Ngã sáu Nguyễn Tri Phương,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad22
+63b664d2bfd3d90017eaaa0f,POINT(106.571159362793 10.6852580285724),,CT Trung Lương - Võ Trần Chí 1,,http://camera.thongtingiaothong.vn/api/snapshot/63b664d2bfd3d90017eaaa0f
+662b85031afb9c00172dd0dc,POINT(106.698939800262 10.772307988975),,Lê Lợi - Phan Bội Châu,,http://camera.thongtingiaothong.vn/api/snapshot/662b85031afb9c00172dd0dc
+58d7b5a7c1e33c00112b320a,POINT(106.576287746429 10.6859643956044),Huyện Bình Chánh,Nút giao Chợ Đệm 1 (CT Trung Lương - Bùi Thanh Khiết),285,http://camera.thongtingiaothong.vn/api/snapshot/58d7b5a7c1e33c00112b320a
+662a8f3a1afb9c00172d2b31,POINT(106.701600551605 10.7445238765742),,Nguyễn Hữu Thọ - Đường số 15,,http://camera.thongtingiaothong.vn/api/snapshot/662a8f3a1afb9c00172d2b31
+58aff01fbd82540010390c50,POINT(106.58026278019 10.6737028958529),Huyện Bình Chánh,Quốc lộ 1 - Bùi Thanh Khiết 2,45,http://camera.thongtingiaothong.vn/api/snapshot/58aff01fbd82540010390c50
+5d8cdb9f766c880017188968,POINT(106.677471399307 10.7993728992472),,Hoàng Văn Thụ - Trần Huy Liệu,,http://camera.thongtingiaothong.vn/api/snapshot/5d8cdb9f766c880017188968
+5a6085fb8576340017d06686,POINT(106.593507528305 10.7499628496621),,QL1-Tỉnh lộ 10B (1),330,http://camera.thongtingiaothong.vn/api/snapshot/5a6085fb8576340017d06686
+5a8253bc5058170011f6eac1,POINT(106.709395051003 10.8030930799773),,Đinh Bộ Lĩnh - Bạch Đằng 2,90,http://camera.thongtingiaothong.vn/api/snapshot/5a8253bc5058170011f6eac1
+587c782db807da0011e33d3b,POINT(106.738277077675 10.8010116814233),Quận 2,Võ Nguyên Giáp - Thảo Điền,270,http://camera.thongtingiaothong.vn/api/snapshot/587c782db807da0011e33d3b
+662a8d821afb9c00172d29c8,POINT(106.718316078186 10.7381993660681),,Nguyễn Thị Thập - Tân Mỹ,,http://camera.thongtingiaothong.vn/api/snapshot/662a8d821afb9c00172d29c8
+63ae7d29bfd3d90017e8f437,POINT(106.656131744385 10.7778307774358),,Lý Thường Kiệt - Bắc Hải,,http://camera.thongtingiaothong.vn/api/snapshot/63ae7d29bfd3d90017e8f437
+56de42f611f398ec0c48129f,POINT(106.7702866 10.7731722),Quận 2,Đồng Văn Cống - Nguyễn Thị Định,240,http://camera.thongtingiaothong.vn/api/snapshot/56de42f611f398ec0c48129f
+662b80b91afb9c00172dcb5b,POINT(106.693022847176 10.7715702042204),,Nút giao Ngã sáu Phù Đổng 2,,http://camera.thongtingiaothong.vn/api/snapshot/662b80b91afb9c00172dcb5b
+5deb576d1dc17d7c5515ad1f,POINT(106.666474342346 10.7563292750288),,Hùng Vương - Ngô Gia Tự,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515ad1f
+662b50261afb9c00172d87b2,POINT(106.688178777695 10.7420784148825),,Dương Bá Trạc - Đường số 9,,http://camera.thongtingiaothong.vn/api/snapshot/662b50261afb9c00172d87b2
+59ca2d9d02eb490011a0a3f0,POINT(106.606961488724 10.8342965190794),,QL1 - Phan Văn Hớn 2,30,http://camera.thongtingiaothong.vn/api/snapshot/59ca2d9d02eb490011a0a3f0
+5a8256df5058170011f6eacb,POINT(106.713198423386 10.8172620146729),,BX Miền Đông - Quốc Lộ 13 (2),195,http://camera.thongtingiaothong.vn/api/snapshot/5a8256df5058170011f6eacb
+5deb576d1dc17d7c5515acfc,POINT(106.68729364872 10.7800124617515),,Điện Biên Phủ - Trương Định,,http://camera.thongtingiaothong.vn/api/snapshot/5deb576d1dc17d7c5515acfc
+587c8c20b807da0011e33d47,POINT(106.674934029579 10.7994466709843),Quận Phú Nhuận,Hoàng Văn Thụ - Hồ Văn Huê,345,http://camera.thongtingiaothong.vn/api/snapshot/587c8c20b807da0011e33d47
+58744fb0b807da0011e33cc0,POINT(106.669129729271 10.7463895818732),Quận 8,Hưng Phú - Chánh Hưng 2,225,http://camera.thongtingiaothong.vn/api/snapshot/58744fb0b807da0011e33cc0
+649da495a6068200171a6cb6,POINT(106.740009784698 10.7817936319045),,Mai Chí Thọ - Trần Quý Kiên (3),,http://camera.thongtingiaothong.vn/api/snapshot/649da495a6068200171a6cb6

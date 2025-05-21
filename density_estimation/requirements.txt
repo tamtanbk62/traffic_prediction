@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+pillow
+requests
+ultralytics
+shapely
+httpx
+pymongo
+python-dotenv
+apscheduler

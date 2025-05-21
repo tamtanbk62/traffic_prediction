@@ -1,0 +1,51 @@
+version: "3.9"
+
+services:
+  camera_service:
+    build: ./camera_service
+    container_name: camera_service
+    ports:
+      - "8001:8001"
+    networks:
+      - traffic_net
+  
+  data_storage:
+    build: ./data_storage
+    container_name: data_storage
+    ports:
+      - "8004:8004"
+    networks:
+      - traffic_net
+
+  density_estimation:
+    build: ./density_estimation
+    container_name: density_estimation
+    ports:
+      - "8002:8002"
+    networks:
+      - traffic_net
+
+  density_prediction:
+    build: ./density_prediction
+    container_name: density_prediction
+    ports:
+      - "8003:8003"
+    networks:
+      - traffic_net
+
+  gateway:
+    build: ./gateway
+    container_name: gateway
+    ports:
+      - "8000:8000"
+    depends_on:
+      - camera_service
+      - density_estimation
+      - density_prediction
+      - data_storage
+    networks:
+      - traffic_net
+
+networks:
+  traffic_net:
+    driver: bridge

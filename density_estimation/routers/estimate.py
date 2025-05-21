@@ -1,14 +1,11 @@
-from fastapi import APIRouter, UploadFile, File, Query
+from fastapi import APIRouter, Query
 from pydantic import HttpUrl
 from services.detection import detect_vehicles
 from services.density_calculation import calculate_density
 from utils.image_utils import load_image_from_url, load_image_from_file
 from models.response_model import DensityResponse
-from datetime import datetime, timedelta
 import cv2
 import numpy as np
-import sys
-import os
 import asyncio
 import httpx
 from more_itertools import chunked
@@ -45,7 +42,7 @@ async def estimate_density(
 
 
 
-CAMERA_SERVICE_URL = "http://camera_service:8001/api/cameras/"
+CAMERA_SERVICE_URL = "http://127.0.0.1:8001/api/cameras/"
 
 async def process_camera(cam, conf_threshold):
     async with semaphore:
@@ -80,8 +77,6 @@ async def load_image_from_url_async(url):
             response = await client.get(url, timeout=10)
             response.raise_for_status()
 
-            import numpy as np
-            import cv2
             img_array = np.asarray(bytearray(response.content), dtype=np.uint8)
             img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
 

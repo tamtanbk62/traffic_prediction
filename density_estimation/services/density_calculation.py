@@ -1,4 +1,3 @@
-import numpy as np
 from shapely.geometry import Polygon
 
 def calculate_density(image_shape, bboxes):

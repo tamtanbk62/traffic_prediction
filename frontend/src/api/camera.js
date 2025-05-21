@@ -1,4 +1,4 @@
-const BASE_URL = "http://camera_service:8000/api/cameras"; // <-- gọi tới gateway
+const BASE_URL = "http://127.0.0.1:8000/api/cameras"; // <-- gọi tới gateway
 
 // Lấy danh sách toàn bộ camera
 export async function getAllCameras() {
@@ -15,7 +15,7 @@ export async function getCameraSnapshot(cameraId) {
   const data = await res.json();
 
   // Tính mật độ qua API estimate 
-  const estimateRes = await fetch(`http://density_estimation:8000/api/estimate/?image_url=${encodeURIComponent(data.snapshot_url)}&conf_threshold=0.2`);
+  const estimateRes = await fetch(`http://127.0.0.1:8000/api/estimate/?image_url=${encodeURIComponent(data.snapshot_url)}&conf_threshold=0.2`);
   const estimate = await estimateRes.json();
 
   return {
@@ -26,7 +26,7 @@ export async function getCameraSnapshot(cameraId) {
 }
 
 export async function getDensityHistory(cameraId) {
-  const response = await fetch(`http://data_storage:8000/api/density/latest?camera_id=${cameraId}&within_minutes=60`);
+  const response = await fetch(`http://127.0.0.1:8000/api/density/latest?camera_id=${cameraId}&within_minutes=60`);
 
   if (!response.ok) {
     throw new Error("Failed to fetch density history");
@@ -59,7 +59,7 @@ export async function getDensityHistory(cameraId) {
 export async function getPrediction(cameraId) {
   // Gửi POST request tới API dự đoán mật độ thông qua gateway
 
-  const res = await fetch(`http://density_prediction:8000/api/predict`, {
+  const res = await fetch(`http://127.0.0.1:8000/api/predict/`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ camera_id: cameraId }) // khớp với PredictionRequest

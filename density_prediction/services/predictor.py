@@ -19,7 +19,7 @@ with open("camera_id_map.pkl", "rb") as f:
     camera_id_to_index = pickle.load(f)
 
 def get_last_30_samples_for_camera(camera_id: str, sequence_length: int = limit_records) -> Optional[List[List[float]]]:
-    url = f"http://127.0.0.1:8004/api/density/latest?camera_id={camera_id}&within_minutes={600}"
+    url = f"http://127.0.0.1:8004/api/density/latest?camera_id={camera_id}&within_minutes={60}"
     
     try:
         response = get(url)

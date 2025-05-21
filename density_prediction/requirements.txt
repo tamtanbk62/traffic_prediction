@@ -1,5 +1,7 @@
 fastapi
-uvicorn
-joblib
+httpx
 numpy
-scikit-learn
+pandas
+pydantic
+Requests
+tensorflow

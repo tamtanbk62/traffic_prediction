@@ -1,7 +1,7 @@
 import httpx
 
-ESTIMATE_URL = "http://density_estimation:8002/api/estimate"
-# ESTIMATE_URL = "http://127.0.0.1:8002/api/estimate"
+# ESTIMATE_URL = "http://density_estimation:8002/api/estimate"
+ESTIMATE_URL = "http://127.0.0.1:8002/api/estimate"
 async def estimate_density(image_url: str, conf_threshold: float):
     async with httpx.AsyncClient() as client:
         resp = await client.post(
